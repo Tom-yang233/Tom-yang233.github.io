@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>随想 on 野人洞</title>
+    <link>http://localhost:1313/posts/thoughts/</link>
+    <description>Recent content in 随想 on 野人洞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>理头道中遇雨</title>
+      <link>http://localhost:1313/posts/thoughts/%E7%90%86%E5%A4%B4%E9%81%93%E4%B8%AD%E9%81%87%E9%9B%A8/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thoughts/%E7%90%86%E5%A4%B4%E9%81%93%E4%B8%AD%E9%81%87%E9%9B%A8/</guid>
+      <description>三月十四理头道中遇雨。未携雨具，行人皆狼狈，余以将沐，独不以为意。剪发毕，雨势更加，遂湿而还。 莫道山间风满楼，窗边柳绿照晴柔。母告跳珠来时快</description>
+    </item>
+  </channel>
+</rss>

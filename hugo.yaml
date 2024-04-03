@@ -1,6 +1,7 @@
 baseURL: https://blog.barbarian.icu
 languageCode: zh-cn
 title: 野人洞
+paginate: 10
 theme: barper
 
 enableEmoji: true
@@ -13,6 +14,7 @@ params:
   UseHugoToc: true
   showtoc: false
   tocopen: false
+  DateFormat: "2006-01-02"
   homeInfoParams:
     enabled: true
     Title: 野人洞
