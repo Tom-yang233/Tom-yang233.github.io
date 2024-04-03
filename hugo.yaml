@@ -2,6 +2,11 @@ baseURL: https://blog.barbarian.icu
 languageCode: zh-cn
 title: 野人洞
 theme: barper
+
+enableEmoji: true
+enableRobotsTXT: true
+hasCJKLanguage: true
+
 params:
   ShowBreadCrumbs: true
   homeInfoParams:
@@ -13,6 +18,10 @@ params:
       url: 'https://github.com/Tom-yang233'
     - name: email
       url: 'mailto:zhiyuanyang@mail.ustc.edu.cn'
+    - name: cv
+      url: /cv/
+    - name: rss
+      url: /rss/
   mainSections:
     - 随想
     - 科学
@@ -20,19 +29,47 @@ params:
     - 工程
     - 文档
     - 笔记
-    - 杂记
+    - 杂谈
 
 menu:
   main:
-    - identifier: tags
-      name: 标签
-      url: /tags/
+    - identifier: thoughts
+      name: 随想
+      url: /thoughts/
+      weight: 10
+    - identifier: sci
+      name: 科学
+      url: /sci/
       weight: 20
+    - identifier: tech
+      name: 技术
+      url: /tech/
+      weight: 30
+    - identifier: eng
+      name: 工程
+      url: /eng/
+      weight: 40
+    - identifier: doc
+      name: 文档
+      url: /doc/
+      weight: 50
+    - identifier: note
+      name: 笔记
+      url: /note/
+      weight: 60
+    - identifier: misc
+      name: 杂谈
+      url: /misc/
+      weight: 70
+    # - identifier: tags
+    #   name: 标签
+    #   url: /tags/
+    #   weight: 80
     - identifier: about
       name: 关于
       url: /about/
-      weight: 30
-    - identifier: example
-      name: example.org
-      url: https://example.org
       weight: 90
+    - identifier: yzy
+      name: yzy2006.cn
+      url: https://yzy2006.cn
+      weight: 100
