@@ -30,14 +30,14 @@ params:
     - name: rss
       url: /rss/
 
-  # mainSections:
-  #   - thoughts
-  #   - sci
-  #   - tech
-  #   - eng
-  #   - doc
-  #   - note
-  #   - misc
+  mainSections:
+    - thoughts
+    - sci
+    - tech
+    - eng
+    - doc
+    - note
+    - misc
 
 menu:
   main:
