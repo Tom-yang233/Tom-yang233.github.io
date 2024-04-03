@@ -1,0 +1,4 @@
+baseURL = 'https://tom-yang233.github.io/'
+languageCode = 'zh-cn'
+title = '野人洞'
+theme = 'barper'
