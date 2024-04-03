@@ -35,31 +35,31 @@ menu:
   main:
     - identifier: thoughts
       name: 随想
-      url: /thoughts/
+      url: /posts/thoughts/
       weight: 10
     - identifier: sci
       name: 科学
-      url: /sci/
+      url: /posts/sci/
       weight: 20
     - identifier: tech
       name: 技术
-      url: /tech/
+      url: /posts/tech/
       weight: 30
     - identifier: eng
       name: 工程
-      url: /eng/
+      url: /posts/eng/
       weight: 40
     - identifier: doc
       name: 文档
-      url: /doc/
+      url: /posts/doc/
       weight: 50
     - identifier: note
       name: 笔记
-      url: /note/
+      url: /posts/note/
       weight: 60
     - identifier: misc
       name: 杂谈
-      url: /misc/
+      url: /posts/misc/
       weight: 70
     # - identifier: tags
     #   name: 标签
