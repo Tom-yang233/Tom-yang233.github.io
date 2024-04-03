@@ -8,19 +8,19 @@ params:
     enable: true
     Title: 野人洞
     Content: 须信百年俱是梦，天地阔，且徜徉。
-  socialIcons: # optional
+  socialIcons:
     - name: github
       url: 'https://github.com/Tom-yang233'
     - name: email
-      url: ''mailto:zhiyuanyang@mail.ustc.edu.cn''
+      url: 'mailto:zhiyuanyang@mail.ustc.edu.cn'
   mainSections:
-    - thoughts
-    - science
-    - tech
-    - engneering
-    - docs
-    - notes
-    - 
+    - 随想
+    - 科学
+    - 技术
+    - 工程
+    - 文档
+    - 笔记
+    - 杂记
 
 menu:
   main:
