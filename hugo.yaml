@@ -29,13 +29,13 @@ params:
     - name: rss
       url: /rss/
   mainSections:
-    - 随想
-    - 科学
-    - 技术
-    - 工程
-    - 文档
-    - 笔记
-    - 杂谈
+    - thoughts
+    - sci
+    - tech
+    - eng
+    - doc
+    - note
+    - misc
 
 menu:
   main:
