@@ -15,10 +15,11 @@ params:
   showtoc: false
   tocopen: false
   DateFormat: "2006-01-02"
+  
   homeInfoParams:
-    enabled: true
     Title: 野人洞
     Content: 须信百年俱是梦，天地阔，且徜徉。
+
   socialIcons:
     - name: github
       url: 'https://github.com/Tom-yang233'
@@ -28,6 +29,7 @@ params:
       url: /cv/
     - name: rss
       url: /rss/
+
   mainSections:
     - thoughts
     - sci
