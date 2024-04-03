@@ -5,3 +5,4 @@ draft = false
 +++
 A first test content for hugo site.
 测试
+进行一些修改，查看更新速度。
