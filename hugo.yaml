@@ -14,7 +14,7 @@ params:
   showtoc: false
   tocopen: false
   homeInfoParams:
-    enable: false
+    enabled: true
     Title: 野人洞
     Content: 须信百年俱是梦，天地阔，且徜徉。
   socialIcons:
