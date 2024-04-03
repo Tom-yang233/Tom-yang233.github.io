@@ -1,3 +1,7 @@
+baseURL: https://blog.barbarian.icu
+languageCode: zh-cn
+title: 野人洞
+theme: barper
 params:
   ShowBreadCrumbs: true
   homeInfoParams:
@@ -9,6 +13,9 @@ params:
       url: "<link>"
     - name: "<platform 2>"
       url: "<link2>"
+  mainSections:
+    - blog
+    - docs 
 
 menu:
   main:
@@ -24,8 +31,3 @@ menu:
       name: example.org
       url: https://example.org
       weight: 30
-
-params:
-  mainSections:
-    - blog
-    - docs    
