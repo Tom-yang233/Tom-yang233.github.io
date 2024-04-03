@@ -9,8 +9,12 @@ hasCJKLanguage: true
 
 params:
   ShowBreadCrumbs: true
+  ShowWordCount: true
+  UseHugoToc: true
+  showtoc: false
+  tocopen: false
   homeInfoParams:
-    enable: true
+    enable: false
     Title: 野人洞
     Content: 须信百年俱是梦，天地阔，且徜徉。
   socialIcons:
