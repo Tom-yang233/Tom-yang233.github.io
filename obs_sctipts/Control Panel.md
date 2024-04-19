@@ -5,3 +5,4 @@ action QuickAdd: new_blog
 color gray
 class .self-btn
 ```
+
