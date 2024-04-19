@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6cdc06be9d2c2b2",
+        "id": "6ecb1b691ef62055",
         "type": "tabs",
         "children": [
           {
-            "id": "90204d991be80d9d",
+            "id": "6475b6e2b051341e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/thoughts/理头道中遇雨.md",
+                "file": "content/posts/尝试使用Obsidian撰写hugo博客.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/thoughts/理头道中遇雨.md",
+                "file": "content/posts/尝试使用Obsidian撰写hugo博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/thoughts/理头道中遇雨.md",
+                "file": "content/posts/尝试使用Obsidian撰写hugo博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/thoughts/理头道中遇雨.md"
+                "file": "content/posts/尝试使用Obsidian撰写hugo博客.md"
               }
             }
           }
@@ -146,12 +146,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "90204d991be80d9d",
+  "active": "6475b6e2b051341e",
   "lastOpenFiles": [
+    "archetypes/default.md",
+    "content/posts/misc/登紫台记.md",
+    "content/posts/尝试使用Obsidian撰写hugo博客.md",
+    "content/posts/thoughts/理头道中遇雨.md",
+    "obs_sctipts/Control Panel.md",
+    "content/posts/misc/为不知何人讨厕公檄.md",
+    "content/posts/2024m4d19h12m33s15.md",
     "content/posts/2024m4d19h12m32s49.md",
     "obs_sctipts/NewBlog.js.md",
     "obs_sctipts/NewBlog.js",
-    "content/posts/thoughts/理头道中遇雨.md",
     "obs_sctipts",
     "content/posts/thoughts/未命名.md",
     "content/posts/misc/大学生猫爱好者来源与身份认同研究.md",

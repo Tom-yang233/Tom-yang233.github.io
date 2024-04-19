@@ -1,5 +1,13 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "0e15748d-e08b-4ae7-bcf9-890dd0170840",
+      "name": "new_blog",
+      "type": "Macro",
+      "command": true,
+      "macroId": "b95bef93-d286-4001-9d5e-b1af5b20704a"
+    }
+  ],
   "macros": [
     {
       "name": "new_blog",
