@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024m4d19h12m48s2.md",
+                "file": "archetypes/default.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024m4d19h12m48s2.md",
+                "file": "archetypes/default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024m4d19h12m48s2.md",
+                "file": "archetypes/default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024m4d19h12m48s2.md"
+                "file": "archetypes/default.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "6475b6e2b051341e",
   "lastOpenFiles": [
-    "obs_sctipts/Control Panel.md",
-    "content/posts/2024m4d19h12m48s2.md",
-    "content/posts/thoughts/尝试使用Obsidian撰写hugo博客.md",
+    "content/posts/2024m4d19h13m7s52.md",
+    "content/posts/thoughts/2024m4d19h12m48s2.md",
     "archetypes/default.md",
+    "obs_sctipts/Control Panel.md",
+    "content/posts/thoughts/尝试使用Obsidian撰写hugo博客.md",
     "content/posts/misc/登紫台记.md",
     "content/posts/thoughts/理头道中遇雨.md",
     "content/posts/misc/为不知何人讨厕公檄.md",
