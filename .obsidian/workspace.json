@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "91e2cccf70561c47",
+        "id": "35dc1d1ef263203e",
         "type": "tabs",
         "children": [
           {
-            "id": "515f29a5973941ee",
+            "id": "27f0fde093214b6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/sci/实验结果：落球法测定液体的粘滞系数.md",
+                "file": "content/posts/sci/实验报告：单摆法测重力加速度.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/sci/实验结果：落球法测定液体的粘滞系数.md",
+                "file": "content/posts/sci/实验报告：单摆法测重力加速度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/sci/实验结果：落球法测定液体的粘滞系数.md",
+                "file": "content/posts/sci/实验报告：单摆法测重力加速度.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/sci/实验结果：落球法测定液体的粘滞系数.md"
+                "file": "content/posts/sci/实验报告：单摆法测重力加速度.md"
               }
             }
           }
@@ -147,16 +147,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "515f29a5973941ee",
+  "active": "27f0fde093214b6e",
   "lastOpenFiles": [
-    "粘滞系数实验结果.jpg",
-    "content/posts/sci/实验报告：单摆法测重力加速度.md",
-    "content/posts/sci/实验结果：落球法测定液体的粘滞系数.md",
-    "obs_sctipts/Control Panel.md",
-    "archetypes/default.md",
-    "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md",
-    "themes/barper/layouts/partials/math.html",
     "content/posts/thoughts/尝试使用Obsidian撰写hugo博客.md",
+    "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md",
+    "content/posts/sci/实验结果：落球法测定液体的粘滞系数.md",
+    "archetypes/default.md",
+    "content/posts/2024m4d23h18m29s53.md",
+    "obs_sctipts/Control Panel.md",
+    "content/posts/2024m4d23h18m29s23.md",
+    "content/posts/2024m4d23h18m28s55.md",
+    "content/posts/2024m4d23h18m28s6.md",
+    "content/posts/2024m4d23h18m27s15.md",
+    "content/posts/sci/实验报告：单摆法测重力加速度.md",
+    "粘滞系数实验结果.jpg",
+    "themes/barper/layouts/partials/math.html",
     "content/posts/2024m4d23h17m18s3.md",
     "().md",
     "content/posts/thoughts/理头道中遇雨.md",

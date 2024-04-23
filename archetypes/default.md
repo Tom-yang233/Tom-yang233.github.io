@@ -1,9 +1,7 @@
 ---
-title:
-  "{ replace .Name \"-\" \" \" | title }": 
+title: { replace .Name "-" " " | title }
 author: 烟墩野人
-date:
-  "{ .Date }": 
+date: { .Date }
 draft: true
 math: true
 ---
