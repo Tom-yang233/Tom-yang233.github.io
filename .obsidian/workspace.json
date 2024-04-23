@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md",
+                "file": "content/posts/sci/实验报告：单摆法测重力加速度.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md",
+                "file": "content/posts/sci/实验报告：单摆法测重力加速度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md",
+                "file": "content/posts/sci/实验报告：单摆法测重力加速度.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md"
+                "file": "content/posts/sci/实验报告：单摆法测重力加速度.md"
               }
             }
           }
@@ -150,10 +149,11 @@
   },
   "active": "515f29a5973941ee",
   "lastOpenFiles": [
+    "content/posts/2024m4d23h17m18s3.md",
+    "content/posts/sci/实验报告：单摆法测重力加速度.md",
     "obs_sctipts/Control Panel.md",
     "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md",
     "content/posts/thoughts/尝试使用Obsidian撰写hugo博客.md",
-    "content/posts/2024m4d23h17m18s3.md",
     "().md",
     "content/posts/thoughts/理头道中遇雨.md",
     "archetypes/default.md",
