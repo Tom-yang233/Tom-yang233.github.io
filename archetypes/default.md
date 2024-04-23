@@ -1,7 +1,7 @@
 ---
-title: { replace .Name "-" " " | title }
+title: '{{ replace .File.ContentBaseName `-` ` ` | title }}'
 author: 烟墩野人
-date: { .Date }
+date: '{{ .Date }}'
 draft: true
 math: true
 ---
