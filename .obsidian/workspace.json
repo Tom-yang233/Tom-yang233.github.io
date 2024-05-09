@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md",
+                "file": "content/posts/note/光纤传感器专题-现代通信光电子学.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md",
+                "file": "content/posts/note/光纤传感器专题-现代通信光电子学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md",
+                "file": "content/posts/note/光纤传感器专题-现代通信光电子学.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md"
+                "file": "content/posts/note/光纤传感器专题-现代通信光电子学.md"
               }
             }
           }
@@ -150,16 +150,18 @@
   "active": "74d1bc7f5262b4d9",
   "lastOpenFiles": [
     "content/posts/2024m5d9h16m47s17.md",
+    "content/posts/note/光纤传感器专题-现代通信光电子学.md",
+    "content/posts/note/未命名.md",
+    "obs_sctipts/Control Panel.md",
+    "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md",
     "content/posts/thoughts/理头道中遇雨.md",
     "content/posts/thoughts/解决问题靠法.md",
     "content/posts/thoughts/喝WD40长大的自行车.md",
     "content/posts/thoughts/出院纪念.md",
     "content/posts/thoughts/尝试使用Obsidian撰写hugo博客.md",
-    "obs_sctipts/Control Panel.md",
     "content/posts/sci/实验报告：单摆法测重力加速度.md",
     "content/posts/sci/实验结果：测量钢丝杨氏模量.md",
     "content/posts/sci/实验结果：落球法测定液体的粘滞系数.md",
-    "content/posts/tech/现代通信光电子学实验报告-1 光纤端面检测.md",
     "content/posts/2024m4d23h18m35s49.md",
     "archetypes/default.md",
     "content/posts/2024m4d23h18m34s19.md",
@@ -175,8 +177,6 @@
     "content/posts/2024m4d19h13m7s52.md",
     "content/posts/thoughts/2024m4d19h12m48s2.md",
     "content/posts/misc/登紫台记.md",
-    "content/posts/misc/为不知何人讨厕公檄.md",
-    "content/posts/2024m4d19h12m33s15.md",
     "obs_sctipts/NewBlog.js",
     "obs_sctipts"
   ]
