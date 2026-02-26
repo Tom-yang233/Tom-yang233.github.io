@@ -1,11 +1,14 @@
 {{- with site.Params.homeInfoParams }}
-<article class="first-entry home-info"
-  {{- if .heroBg }} style="background-image:url('{{ .heroBg }}')" {{- end }}>
-    {{- if .heroBg }}<div class="home-hero-overlay"></div>{{- end }}
-    {{- if .avatar }}
-    <img src="{{ .avatar }}" alt="avatar" class="home-avatar" />
-    {{- end }}
+{{- if .heroBg }}
+<div class="home-hero-banner" style="background-image:url('{{ .heroBg }}')">
+  <div class="home-hero-overlay"></div>
+</div>
+{{- end }}
+<article class="first-entry home-info{{if .heroBg}} has-hero{{end}}">
     <header class="entry-header">
+        {{- if .avatar }}
+        <img src="{{ .avatar }}" alt="avatar" class="home-avatar" />
+        {{- end }}
         <h1>{{ .Title | markdownify }}</h1>
     </header>
     <div class="entry-content">
