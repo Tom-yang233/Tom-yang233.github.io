@@ -2,14 +2,14 @@
    首页扩展组件样式
    ============================== */
 
-/* --- 最近文章 Ticker --- */
+/* --- 最近文章竖向切换 Ticker --- */
 .home-ticker-wrap {
   display: flex;
   align-items: center;
   gap: 0.75em;
   margin: 0.9em 0 0.4em;
-  overflow: hidden;
   font-size: 0.85em;
+  overflow: hidden;
 }
 
 .home-ticker-label {
@@ -23,45 +23,36 @@
   flex-shrink: 0;
 }
 
-.home-ticker {
-  overflow: hidden;
+.home-ticker-v {
   flex: 1;
-  mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
-  -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+  position: relative;
+  height: 1.5em;
+  overflow: hidden;
 }
 
-.home-ticker-inner {
-  display: flex;
-  align-items: center;
-  gap: 2.5em;
-  width: max-content;
-  animation: home-ticker-scroll 28s linear infinite;
-}
-
-.home-ticker-inner:hover {
-  animation-play-state: paused;
-}
-
-.home-ticker-item {
+.home-ticker-v-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: none;
   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.5em;
   text-decoration: none;
   color: var(--secondary);
   transition: color 0.2s;
 }
 
-.home-ticker-item::before {
-  content: "·";
-  margin-right: 0.6em;
-  opacity: 0.4;
+.home-ticker-v-item.active {
+  display: block;
+  transform: translateY(0);
+  opacity: 1;
 }
 
-.home-ticker-item:hover {
+.home-ticker-v-item:hover {
   color: var(--primary);
-}
-
-@keyframes home-ticker-scroll {
-  0%   { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
 }
 
 /* --- 底部 meta 栏 --- */
