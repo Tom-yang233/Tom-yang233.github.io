@@ -1,7 +1,7 @@
-- name: "示例友链"
-  url: "https://example.com"
-  description: "这里是示例站点的描述"
-  avatar: "https://example.com/avatar.png"
+- name: "Palind"
+  url: "https://blog.palind-rome.top/"
+  description: "😊 你好呀，欢迎来到Palind的博客！ML学习笔记和札记记录生活"
+  avatar: "https://blog.palind-rome.top/images/avatar.jpg"
 
 # 在此处添加更多友链，格式如下：
 # - name: "站点名称"

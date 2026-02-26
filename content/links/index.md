@@ -6,14 +6,18 @@ description: "朋友们的博客与站点"
 hideMeta: true
 ---
 
-若有意交换友链，欢迎来信：[zhiyuanyang@mail.ustc.edu.cn](mailto:zhiyuanyang@mail.ustc.edu.cn)
-
-申请格式：
-- **站点名称**：
-- **站点地址**：
-- **站点描述**：（一句话，不超过 30 字）
-- **头像地址**：（可选）
+{{< friendlinks >}}
 
 ---
 
-{{< friendlinks >}}
+
+>若有意交换友链，欢迎来信：[zhiyuanyang@mail.ustc.edu.cn](mailto:zhiyuanyang@mail.ustc.edu.cn)
+>
+>格式：
+>- **站点名称**：
+>- **站点地址**：
+>- **站点描述**：
+>- **头像地址**：
+
+---
+
