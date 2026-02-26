@@ -28,6 +28,9 @@ params:
   homeInfoParams:
     Title: 野人洞
     Content: 须信百年俱是梦，天地阔，且徜徉。
+    # 头像与背景图（填入你的图片 URL，留空则不显示）
+    avatar: "https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E7%8C%AB%E5%A4%B4%E5%83%8F.JPG"
+    heroBg: "https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/dji_fly_20260128_082652_0027_1769878216896_photo.jpg"
 
   socialIcons:
     - name: github

@@ -1,5 +1,10 @@
 {{- with site.Params.homeInfoParams }}
-<article class="first-entry home-info">
+<article class="first-entry home-info"
+  {{- if .heroBg }} style="background-image:url('{{ .heroBg }}')" {{- end }}>
+    {{- if .heroBg }}<div class="home-hero-overlay"></div>{{- end }}
+    {{- if .avatar }}
+    <img src="{{ .avatar }}" alt="avatar" class="home-avatar" />
+    {{- end }}
     <header class="entry-header">
         <h1>{{ .Title | markdownify }}</h1>
     </header>
