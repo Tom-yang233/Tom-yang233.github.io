@@ -1,7 +1,8 @@
 baseURL: https://blog.barbarian.icu
 languageCode: zh-cn
 title: 野人洞
-paginate: 10
+pagination:
+  pagerSize: 10
 theme: barper
 
 enableEmoji: true
