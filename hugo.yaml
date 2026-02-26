@@ -1,0 +1,88 @@
+baseURL: https://blog.barbarian.icu
+languageCode: zh-cn
+title: 野人洞
+pagination:
+  pagerSize: 10
+theme: barper
+
+enableEmoji: true
+enableRobotsTXT: true
+hasCJKLanguage: true
+
+params:
+  ShowBreadCrumbs: true
+  ShowWordCount: true
+  UseHugoToc: true
+  showtoc: false
+  tocopen: false
+  DateFormat: "2006-01-02"
+
+  homeInfoParams:
+    Title: 野人洞
+    Content: 须信百年俱是梦，天地阔，且徜徉。
+
+  socialIcons:
+    - name: github
+      url: 'https://github.com/Tom-yang233'
+    - name: email
+      url: 'mailto:zhiyuanyang@mail.ustc.edu.cn'
+    - name: cv
+      url: /cv/
+    - name: rss
+      url: /rss/
+
+  mainSections:
+    - thoughts
+    - sci
+    - tech
+    - eng
+    - doc
+    - note
+    - misc
+
+menu:
+  main:
+    - identifier: thoughts
+      name: 随想
+      url: /posts/thoughts/
+      weight: 10
+    - identifier: sci
+      name: 科学
+      url: /posts/sci/
+      weight: 20
+    - identifier: tech
+      name: 技术
+      url: /posts/tech/
+      weight: 30
+    - identifier: eng
+      name: 工程
+      url: /posts/eng/
+      weight: 40
+    - identifier: doc
+      name: 文档
+      url: /posts/doc/
+      weight: 50
+    - identifier: note
+      name: 笔记
+      url: /posts/note/
+      weight: 60
+    - identifier: misc
+      name: 杂谈
+      url: /posts/misc/
+      weight: 70
+    # - identifier: tags
+    #   name: 标签
+    #   url: /tags/
+    #   weight: 80
+    - identifier: links
+      name: 友链
+      url: /links/
+      weight: 85
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: 90
+    # - identifier: yzy
+    #   name: yzy2006.cn
+    #   url: https://yzy2006.cn
+    #   weight: 100
