@@ -13,7 +13,7 @@
 {{- end -}}
 
 {{/* 最近文章滚动 ticker */}}
-{{- $allPosts := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $allPosts := where site.RegularPages "Section" "posts" }}
 {{- $allPosts = where $allPosts "Params.hiddenInHomeList" "!=" "true" }}
 {{- $recentPosts := first 12 $allPosts }}
 {{- if $recentPosts }}
