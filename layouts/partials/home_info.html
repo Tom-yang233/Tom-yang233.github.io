@@ -1,0 +1,56 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}
+
+{{/* 最近文章滚动 ticker */}}
+{{- $allPosts := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $allPosts = where $allPosts "Params.hiddenInHomeList" "!=" "true" }}
+{{- $recentPosts := first 12 $allPosts }}
+{{- if $recentPosts }}
+<div class="home-ticker-wrap">
+  <span class="home-ticker-label">最近更新</span>
+  <div class="home-ticker">
+    <div class="home-ticker-inner">
+      {{- range $recentPosts }}
+      <a href="{{ .RelPermalink }}" class="home-ticker-item">{{ .Title }}</a>
+      {{- end }}
+      {{- range $recentPosts }}
+      <a href="{{ .RelPermalink }}" class="home-ticker-item" aria-hidden="true">{{ .Title }}</a>
+      {{- end }}
+    </div>
+  </div>
+</div>
+{{- end }}
+
+{{/* 底部工具栏：文章总数 + 随机文章 */}}
+<div class="home-meta-bar">
+  <span class="home-post-count">共 {{ len $allPosts }} 篇文章</span>
+  <a id="home-random-btn" class="home-random-btn" href="#" title="随机跳转到一篇文章">随机一篇 →</a>
+</div>
+
+<script>
+(function () {
+  var posts = [
+    {{- range $allPosts }}
+    {{ .RelPermalink | jsonify }},
+    {{- end }}
+  ];
+  var btn = document.getElementById('home-random-btn');
+  if (btn && posts.length > 0) {
+    btn.addEventListener('click', function (e) {
+      e.preventDefault();
+      window.location.href = posts[Math.floor(Math.random() * posts.length)];
+    });
+  }
+})();
+</script>

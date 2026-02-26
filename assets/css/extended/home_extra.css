@@ -1,0 +1,99 @@
+/* ==============================
+   首页扩展组件样式
+   ============================== */
+
+/* --- 最近文章 Ticker --- */
+.home-ticker-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+  margin: 0.9em 0 0.4em;
+  overflow: hidden;
+  font-size: 0.85em;
+}
+
+.home-ticker-label {
+  white-space: nowrap;
+  font-size: 0.78em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--secondary);
+  opacity: 0.7;
+  flex-shrink: 0;
+}
+
+.home-ticker {
+  overflow: hidden;
+  flex: 1;
+  mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+}
+
+.home-ticker-inner {
+  display: flex;
+  align-items: center;
+  gap: 2.5em;
+  width: max-content;
+  animation: home-ticker-scroll 28s linear infinite;
+}
+
+.home-ticker-inner:hover {
+  animation-play-state: paused;
+}
+
+.home-ticker-item {
+  white-space: nowrap;
+  text-decoration: none;
+  color: var(--secondary);
+  transition: color 0.2s;
+}
+
+.home-ticker-item::before {
+  content: "·";
+  margin-right: 0.6em;
+  opacity: 0.4;
+}
+
+.home-ticker-item:hover {
+  color: var(--primary);
+}
+
+@keyframes home-ticker-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+/* --- 底部 meta 栏 --- */
+.home-meta-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0.5em 0 0.2em;
+  font-size: 0.82em;
+  color: var(--secondary);
+  opacity: 0.75;
+}
+
+.home-post-count {
+  letter-spacing: 0.02em;
+}
+
+/* --- 随机文章按钮 --- */
+.home-random-btn {
+  display: inline-block;
+  padding: 0.22em 0.85em;
+  border: 1px solid var(--tertiary);
+  border-radius: 2em;
+  color: var(--secondary);
+  text-decoration: none;
+  font-size: 0.9em;
+  transition: color 0.2s, border-color 0.2s;
+  cursor: pointer;
+}
+
+.home-random-btn:hover {
+  color: var(--primary);
+  border-color: var(--secondary);
+  opacity: 1;
+}
