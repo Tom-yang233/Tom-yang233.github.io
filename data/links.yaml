@@ -3,6 +3,11 @@
   description: " Palind's blog，对LLM和agent感兴趣"
   avatar: "https://blog.palind-rome.top/images/avatar.jpg"
 
+- name: "云帆"
+  url: "http://yunyunfanfan.top"
+  description: " 野人的高中同学云帆"
+  avatar: "https://avatars.githubusercontent.com/u/179988900"
+
 # 在此处添加更多友链，格式如下：
 # - name: "站点名称"
 #   url: "https://your-friend-site.com"
