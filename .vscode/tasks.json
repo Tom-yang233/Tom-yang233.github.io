@@ -1,0 +1,48 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "新建博客文章",
+			"type": "shell",
+			"command": "hugo new posts/${input:category}/${input:filename}.md",
+			"group": "build",
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared"
+			}
+		},
+		{
+			"label": "本地预览",
+			"type": "shell",
+			"command": "hugo server -D --navigateTo /",
+			"group": "build",
+			"isBackground": true,
+			"presentation": {
+				"reveal": "always",
+				"panel": "dedicated"
+			}
+		}
+	],
+	"inputs": [
+		{
+			"id": "category",
+			"type": "pickString",
+			"description": "选择文章分类",
+			"options": [
+				"thoughts",
+				"sci",
+				"tech",
+				"eng",
+				"doc",
+				"note",
+				"misc"
+			],
+			"default": "thoughts"
+		},
+		{
+			"id": "filename",
+			"type": "promptString",
+			"description": "输入文件名（不含 .md 后缀）"
+		}
+	]
+}

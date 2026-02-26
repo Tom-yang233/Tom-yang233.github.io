@@ -1,7 +1,9 @@
 ---
 title: '{{ replace .File.ContentBaseName `-` ` ` | title }}'
-author: 烟墩野人
+author: 杨致远
 date: '{{ .Date }}'
 draft: true
-math: true
+math: false
+tags: []
+description: ""
 ---

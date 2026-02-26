@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>技术 on 野人洞</title>
-    <link>http://localhost:1313/posts/tech/</link>
-    <description>Recent content in 技术 on 野人洞</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <atom:link href="http://localhost:1313/posts/tech/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>技术 on 野人洞</title><link>https://blog.barbarian.icu/posts/tech/</link><description>Recent content in 技术 on 野人洞</description><generator>Hugo -- 0.124.1</generator><language>zh-cn</language><lastBuildDate>Tue, 23 Apr 2024 17:18:23 +0800</lastBuildDate><atom:link href="https://blog.barbarian.icu/posts/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>【现代通信光电子学】实验报告-1 光纤端面检测</title><link>https://blog.barbarian.icu/posts/tech/%E7%8E%B0%E4%BB%A3%E9%80%9A%E4%BF%A1%E5%85%89%E7%94%B5%E5%AD%90%E5%AD%A6%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A-1-%E5%85%89%E7%BA%A4%E7%AB%AF%E9%9D%A2%E6%A3%80%E6%B5%8B/</link><pubDate>Tue, 23 Apr 2024 17:18:23 +0800</pubDate><guid>https://blog.barbarian.icu/posts/tech/%E7%8E%B0%E4%BB%A3%E9%80%9A%E4%BF%A1%E5%85%89%E7%94%B5%E5%AD%90%E5%AD%A6%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A-1-%E5%85%89%E7%BA%A4%E7%AB%AF%E9%9D%A2%E6%A3%80%E6%B5%8B/</guid><description>一、实验目的和要求 光纤端面的几何特性对于其传输特性和连接损耗都有影响，通过测量光纤端面的几何特性，我们希望计算光纤的纤芯直径、芯层和包层的椭</description></item></channel></rss>
