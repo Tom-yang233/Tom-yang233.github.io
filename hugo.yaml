@@ -9,6 +9,11 @@ enableEmoji: true
 enableRobotsTXT: true
 hasCJKLanguage: true
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
   ShowBreadCrumbs: true
   ShowWordCount: true
@@ -16,6 +21,9 @@ params:
   showtoc: false
   tocopen: false
   DateFormat: "2006-01-02"
+  author:
+    name: 杨致远
+    email: zhiyuanyang@mail.ustc.edu.cn
 
   homeInfoParams:
     Title: 野人洞
