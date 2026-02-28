@@ -15,6 +15,12 @@ markup:
       unsafe: true
 
 params:
+  assets:
+    favicon: ye_icon.png
+    favicon16x16: ye_icon.png
+    favicon32x32: ye_icon.png
+    apple_touch_icon: ye_icon.png
+
   ShowBreadCrumbs: true
   ShowWordCount: true
   UseHugoToc: true
@@ -26,7 +32,7 @@ params:
     email: zhiyuanyang@mail.ustc.edu.cn
 
   homeInfoParams:
-    Title: 野人洞
+    Title: 烟墩野人
     Content: 须信百年俱是梦，天地阔，且徜徉。
     # 头像与背景图（填入你的图片 URL，留空则不显示）
     avatar: "https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E7%8C%AB%E5%A4%B4%E5%83%8F.JPG"
