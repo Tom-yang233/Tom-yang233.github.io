@@ -40,7 +40,7 @@ params:
     - name: cv
       url: /cv/
     - name: rss
-      url: /rss/
+      url: /index.xml
 
   mainSections:
     - thoughts
