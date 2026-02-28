@@ -46,7 +46,7 @@
   /* 随机文章 */
   var posts = [
     {{- range $allPosts }}
-    {{ .RelPermalink | jsonify }},
+    "{{ .RelPermalink }}",
     {{- end }}
   ];
   var btn = document.getElementById('home-random-btn');
