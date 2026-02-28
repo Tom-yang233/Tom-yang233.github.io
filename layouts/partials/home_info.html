@@ -11,21 +11,17 @@
         {{- end }}
         <h1>{{ .Title | markdownify }}</h1>
     </header>
-    {{/* 时辰问候语 */}}
-    <div class="home-greeting" id="home-greeting"></div>
-    <div class="entry-content">
-        <span id="home-typewriter"></span><span class="typewriter-cursor">|</span>
+    {{/* 野生小诗 */}}
+    <div class="entry-content home-poem" id="home-poem">
+      <div class="home-poem-title">野生小诗</div>
+      <div class="home-poem-row">
+        <div class="home-poem-content" id="home-poem-content"></div>
+        <div class="home-poem-origin" id="home-poem-origin"></div>
+      </div>
     </div>
     <footer class="entry-footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
     </footer>
-
-    {{/* 野生小诗 */}}
-    <div class="home-poem" id="home-poem">
-      <div class="home-poem-title">野生小诗</div>
-      <div class="home-poem-content" id="home-poem-content"></div>
-      <div class="home-poem-origin" id="home-poem-origin"></div>
-    </div>
 </article>
 {{- end -}}
 
@@ -53,35 +49,19 @@
 
 <script>
 (function () {
-  /* ====== 打字机效果 ====== */
-  var fullText = "{{ site.Params.homeInfoParams.Content | plainify | safeJS }}";
-  var typeEl = document.getElementById('home-typewriter');
-  if (typeEl && fullText) {
-    var chars = Array.from(fullText);
-    var i = 0;
-    function typeNext() {
-      if (i < chars.length) {
-        typeEl.textContent += chars[i];
-        i++;
-        setTimeout(typeNext, 90 + Math.random() * 60);
-      }
-    }
-    setTimeout(typeNext, 600);
-  }
-
   /* ====== 时辰问候语 ====== */
   var greetEl = document.getElementById('home-greeting');
   if (greetEl) {
     var h = new Date().getHours();
     var greetings = [
-      [5,  8,  '🌅 晨起好读书'],
-      [8,  11, '☀️ 上午好，新的一天'],
-      [11, 13, '🍚 午安，记得吃饭'],
-      [13, 17, '🍵 下午宜品茗'],
-      [17, 19, '🌇 黄昏好散步'],
-      [19, 22, '🌙 夜深宜静思'],
-      [22, 24, '🌌 夜已深，早些休息'],
-      [0,  5,  '💤 凌晨了，还没睡？']
+      [5,  8,  '🌅 日出'],
+      [8,  11, '☀️ 早'],
+      [11, 13, '🍚 吃了吗您'],
+      [13, 17, '🍵 饮茶先啦'],
+      [17, 19, '🌇 日落'],
+      [19, 22, '🌙 夜'],
+      [22, 24, '🌌 夜深'],
+      [0,  5,  '💤 没睡着？']
     ];
     for (var g = 0; g < greetings.length; g++) {
       if (h >= greetings[g][0] && h < greetings[g][1]) {
@@ -107,14 +87,14 @@
   /* ====== 站点运行时间 ====== */
   var uptimeEl = document.getElementById('home-uptime');
   if (uptimeEl) {
-    var startDate = new Date('2025-01-01T00:00:00');
+    var startDate = new Date('2026-02-26T00:00:00');
     function updateUptime() {
       var now = new Date();
       var diff = now - startDate;
       var days = Math.floor(diff / 86400000);
       var hours = Math.floor((diff % 86400000) / 3600000);
       var mins = Math.floor((diff % 3600000) / 60000);
-      uptimeEl.textContent = '已运行 ' + days + ' 天 ' + hours + ' 时 ' + mins + ' 分';
+      uptimeEl.textContent = '重新恢复运行已 ' + days + ' 天 ' + hours + ' 时 ' + mins + ' 分';
     }
     updateUptime();
     setInterval(updateUptime, 60000);

@@ -10,6 +10,7 @@
   background-size: cover;
   background-position: center;
   position: relative;
+  z-index: 0;
   overflow: hidden;
 }
 
@@ -35,21 +36,22 @@
 
 /* 卡片当有 hero 时向上叠加 */
 .home-info.has-hero {
-  margin-top: -2.5rem;
+  margin-top: -4rem;
   position: relative;
   z-index: 1;
+  overflow: visible;
 }
 
 /* --- 头像 + 标题横排 --- */
 .home-info .entry-header {
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   gap: 0.75em;
 }
 
 .home-avatar {
-  width: 56px;
-  height: 56px;
+  width: 72px;
+  height: 72px;
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
@@ -58,40 +60,23 @@
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
+/* 有 hero 时头像向上突出，探入背景图区域 */
+.home-info.has-hero .home-avatar {
+  position: relative;
+  z-index: 3;
+  margin-bottom: -0.25em;
+  margin-top: -2.4rem;
+}
+
 .home-avatar:hover {
   transform: scale(1.07);
   box-shadow: 0 4px 14px rgba(0,0,0,0.20);
 }
 
-/* --- 时辰问候语 --- */
-.home-greeting {
-  font-size: 0.82em;
-  color: var(--secondary);
-  opacity: 0.8;
-  margin: 0.3em 0 0.1em;
-  letter-spacing: 0.03em;
-  min-height: 1.4em;
-}
-
-/* --- 打字机光标 --- */
-.typewriter-cursor {
-  display: inline-block;
-  color: var(--primary);
-  font-weight: 300;
-  animation: blink-cursor 1s steps(1) infinite;
-  margin-left: 1px;
-}
-
-@keyframes blink-cursor {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
-}
-
-/* --- 今日诗词 --- */
+/* --- 野生小诗 --- */
 .home-poem {
   margin: 0.8em 0 0.15em;
-  padding: 0.65em 1em;
-  border-left: 2.5px solid var(--tertiary);
+  padding: 0.65em 0;
   opacity: 0;
   transition: opacity 0.8s ease;
   font-size: 0.88em;
@@ -108,17 +93,26 @@
   margin-bottom: 0.3em;
 }
 
+.home-poem-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1em;
+}
+
 .home-poem-content {
   color: var(--primary);
   font-style: italic;
   letter-spacing: 0.04em;
+  flex: 1;
 }
 
 .home-poem-origin {
   color: var(--secondary);
   font-size: 0.85em;
-  margin-top: 0.25em;
   opacity: 0.7;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 /* --- 站点运行时间 --- */
