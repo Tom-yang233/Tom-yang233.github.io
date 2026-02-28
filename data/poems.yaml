@@ -1,0 +1,162 @@
+# 野生小诗 —— 本地诗词库
+# 每次刷新主页随机展示一首
+
+- content: 须信百年俱是梦，天地阔，且徜徉。
+  author: 苏轼
+  origin: 江城子
+
+- content: 醉后不知天在水，满船清梦压星河。
+  author: 唐温如
+  origin: 题龙阳县青草湖
+
+- content: 人生到处知何似，应似飞鸿踏雪泥。
+  author: 苏轼
+  origin: 和子由渑池怀旧
+
+- content: 浮云一别后，流水十年间。
+  author: 韦应物
+  origin: 淮上喜会梁川故人
+
+- content: 掬水月在手，弄花香满衣。
+  author: 于良史
+  origin: 春山夜月
+
+- content: 海上生明月，天涯共此时。
+  author: 张九龄
+  origin: 望月怀远
+
+- content: 落霞与孤鹜齐飞，秋水共长天一色。
+  author: 王勃
+  origin: 滕王阁序
+
+- content: 此中有真意，欲辨已忘言。
+  author: 陶渊明
+  origin: 饮酒·其五
+
+- content: 行到水穷处，坐看云起时。
+  author: 王维
+  origin: 终南别业
+
+- content: 大漠孤烟直，长河落日圆。
+  author: 王维
+  origin: 使至塞上
+
+- content: 星垂平野阔，月涌大江流。
+  author: 杜甫
+  origin: 旅夜书怀
+
+- content: 沉舟侧畔千帆过，病树前头万木春。
+  author: 刘禹锡
+  origin: 酬乐天扬州初逢席上见赠
+
+- content: 山重水复疑无路，柳暗花明又一村。
+  author: 陆游
+  origin: 游山西村
+
+- content: 众里寻他千百度，蓦然回首，那人却在灯火阑珊处。
+  author: 辛弃疾
+  origin: 青玉案·元夕
+
+- content: 采菊东篱下，悠然见南山。
+  author: 陶渊明
+  origin: 饮酒·其五
+
+- content: 会当凌绝顶，一览众山小。
+  author: 杜甫
+  origin: 望岳
+
+- content: 日暮苍山远，天寒白屋贫。
+  author: 刘长卿
+  origin: 逢雪宿芙蓉山主人
+
+- content: 不识庐山真面目，只缘身在此山中。
+  author: 苏轼
+  origin: 题西林壁
+
+- content: 何当共剪西窗烛，却话巴山夜雨时。
+  author: 李商隐
+  origin: 夜雨寄北
+
+- content: 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。
+  author: 苏轼
+  origin: 定风波
+
+- content: 长风破浪会有时，直挂云帆济沧海。
+  author: 李白
+  origin: 行路难
+
+- content: 疏影横斜水清浅，暗香浮动月黄昏。
+  author: 林逋
+  origin: 山园小梅
+
+- content: 人闲桂花落，夜静春山空。
+  author: 王维
+  origin: 鸟鸣涧
+
+- content: 春江潮水连海平，海上明月共潮生。
+  author: 张若虚
+  origin: 春江花月夜
+
+- content: 古人学问无遗力，少壮工夫老始成。
+  author: 陆游
+  origin: 冬夜读书示子聿
+
+- content: 江碧鸟逾白，山青花欲燃。
+  author: 杜甫
+  origin: 绝句二首
+
+- content: 人生自是有情痴，此恨不关风与月。
+  author: 欧阳修
+  origin: 玉楼春
+
+- content: 桃李春风一杯酒，江湖夜雨十年灯。
+  author: 黄庭坚
+  origin: 寄黄几复
+
+- content: 试问闲愁都几许？一川烟草，满城风絮，梅子黄时雨。
+  author: 贺铸
+  origin: 青玉案
+
+- content: 世事一场大梦，人生几度秋凉。
+  author: 苏轼
+  origin: 西江月
+
+- content: 晚来天欲雪，能饮一杯无？
+  author: 白居易
+  origin: 问刘十九
+
+- content: 小舟从此逝，江海寄余生。
+  author: 苏轼
+  origin: 临江仙
+
+- content: 休对故人思故国，且将新火试新茶。诗酒趁年华。
+  author: 苏轼
+  origin: 望江南·超然台作
+
+- content: 细雨鱼儿出，微风燕子斜。
+  author: 杜甫
+  origin: 水槛遣心二首
+
+- content: 纵使晴明无雨色，入云深处亦沾衣。
+  author: 张旭
+  origin: 山中留客
+
+- content: 两岸猿声啼不住，轻舟已过万重山。
+  author: 李白
+  origin: 早发白帝城
+
+- content: 黑云翻墨未遮山，白雨跳珠乱入船。
+  author: 苏轼
+  origin: 六月二十七日望湖楼醉书
+
+- content: 独坐幽篁里，弹琴复长啸。
+  author: 王维
+  origin: 竹里馆
+
+- content: 若似月轮终皎洁，不辞冰雪为卿热。
+  author: 纳兰性德
+  origin: 蝶恋花
+
+- content: 料峭春风吹酒醒，微冷，山头斜照却相迎。
+  author: 苏轼
+  origin: 定风波
