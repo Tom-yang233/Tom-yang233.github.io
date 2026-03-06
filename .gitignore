@@ -3,3 +3,8 @@
 obs_scripts/
 public/
 temp/
+
+# Agent related files
+AGENTS.md
+AGENT.md
+.agent-temp/
