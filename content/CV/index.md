@@ -1,72 +1,136 @@
 ---
-title: "个人简历"
-date: 2026-02-26
+title: "Curriculum Vitae"
+date: 2026-03-25
 draft: false
 ---
 
-## 教育背景
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
+  <div style="flex: 1 1 420px; min-width: 280px;">
 
-**中国科学技术大学** | 少年班学院 | 2023.09 - 2027.06 (预计)
-- **专业**：行星科学与探测交叉学科英才班（本科，空间科学与技术；交叉方向：电子信息工程）
-- **成绩**：GPA 3.95 (2024 夏，专业排名 1/37)
-- **核心课程**：
-    - 物理类：理论力学A（94）、电动力学（89）、等离子体物理（95）等
-    - 电子类：现代通信光电子学 (96)、信号与系统A（98）、计算机原理与嵌入式系统 (99)等
-    - 空间类：航天器轨道动力学（92）、空间环境与航天工程（91）、空间探测仪器原理与方法（97）等
+# Yang Zhiyuan
 
----
+Hefei, Anhui, China  
+Email: zhiyuanyang[at]mail.ustc.edu.cn  
+Homepage: https://blog.barbarian.icu | GitHub: https://github.com/tom-yang233  
+Callsign: BG6HLL
 
-## 项目经历
-
-### 8K 超高清星载相机 (进展中) | **主要负责人**
-- **项目简介**：学生微纳卫星项目中计划搭载的对地遥感相机。科学目标是监测高层大气-空间相互作用产生的放电发光现象（精灵闪电）。
-- **职责**：
-    - 科学方案设计、硬件工程开发（Zynq PS+PL）
-
-### 中国科大 Robogame 机器人比赛 (2024) | **队长 (第四名)**
-- **项目简介**：RK3588 平台 + STM32 单片机。
-- **技术实现**：
-    - 视觉：识别目标物体与 AprilTag 标记，融合激光测距实现定位。
-    - 执行：驱动直流无刷电机与气动元件，完成移动、抓取与发射。
-- **分工**：作为队长统筹机械、电控、算法及整体技术进度。
-
-### UHF/VHF 星载电台 (2023 - 2024) | **开发者**
-- **项目简介**：基于 STM32 的低中频软件定义收发信机 (SDR)。
-- **职责**：负责嵌入式软硬件开发、射频信号处理算法实现及全流程调试测试。
-
-### 无线光开关与光探测器 (2022) | **主要开发者**
-- **项目简介**：基于 ESP32 的物联网应用，解决光学平台操作痛点。
-- **核心工作**：模拟信号放大与调理、EMC 设计、光机结构设计。
+  </div>
+  <div style="flex: 0 0 180px; text-align: right;">
+    <img src="https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325173745_4cd177289844220b5f2aae843d813625.png" alt="Photo" style="width: 120px; max-width: 100%; height: auto; border-radius: 6px;" />
+  </div>
+</div>
 
 ---
 
-## 校园工作
-
-- **助教工作**：
-    - 2025 秋：李毅教授《理论力学B》助教
-    - 2025 春：郝记华教授《科技写作与表达》助教
-    - 2024 秋：郝记华教授《科学与社会》研讨课助教
-- **学生工作**：
-    - 2023 - 至今：USTC 学生业余无线电协会临时团支部 团支书
-    - 2023 - 至今：少年班学院 2023 级 5 班 宣传委员
-- **志愿服务**：
-    - 2025.05：中国科学技术大学 “科普活动周” 科普志愿者
-    - 2024.07：贵州省六枝特区 “三下乡” 科普活动
-    - 2024.05：中国科学技术大学 “科普活动周” 科普志愿者
+Undergraduated student at USTC.
+Operator of Amateur Radio Station BY6DX.
 
 ---
 
-## 获奖经历
+## Research Interests
 
-- **2025**：中国科学技术大学 优秀学生奖学金（银奖）
-- **2024**：中国科学技术大学 江淮蔚来汽车专项奖学金
-- **2023**：中国科学技术大学 新生奖学金
+**Space Instrumentation**
+**Planetary Science**
 
 ---
 
-## 技能与证书
+## Education
 
-- **专业技能**：FPGA + ARM 异构开发、嵌入式系统设计、硬件设计、SDR
-- **语言水平**：CET-4 609(2023) | CET-6 575(2024)
-- **专业资格**：特种作业操作证 (低压电工作业)
-- **个人爱好**：业余无线电、《左传》
+**University of Science and Technology of China (USTC)**, Hefei, China  
+**B.Sc. Candidate** in Space Science and Technology  
+(Interdisciplinary Program in Planetary Science and Exploration, School of the Gifted Young)
+*Sep 2023 – Jun 2027 (expected)*
+
+- GPA: 3.95/4.30, ranked 1/37 (2026.3)
+- Relevant coursework: Theoretical Mechanics, Electrodynamics, Plasma Physics, Signals and Systems, Modern Communication Optoelectronics, Principles of Space Instruments, Orbital Dynamics ...
+
+---
+
+## Publications
+
+None to date :(
+
+---
+
+## Research Experience
+
+---
+
+## Project Experience
+
+**10T ohm Transimpedence Amplifier**
+*2026 - Present*
+
+- Using ADA4530-1 to build a precision TIA.
+- Learning high-precision measurment technique under the guidance of Dr. Wang Shaoyang (PolyU)
+
+**8K Ultra-HD Spaceborne Camera**
+*2025 – Present*
+
+- Leading the scientific and engineering design of a student satellite (MERLIS) payload for Earth observation.
+- Contributing to system architecture, instrument concept development, and hardware implementation based on Zynq PS+PL platforms.
+- Target application: observation of upper-atmosphere transient luminous events such as sprites.
+[MERLIS Satellite Information](https://by6dx.github.io/2025/03/MERLIS_Satellite_Information.html)
+![IMX455 sensor board](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325164258_5b4bb462eb1279189aac8074a4ccf40b.png)IMX455 sensor board
+
+**Robogame Competition, USTC** — *Team Captain, 4th Place*  
+*2024*
+
+- Led a multidisciplinary student robotics team integrating mechanical design, embedded control, and computer vision.
+- Built a robot platform based on RK3588 and STM32 for object detection, localization, grasping, and launching tasks.
+- Implemented visual recognition of target objects and AprilTags, fused with laser ranging for navigation and positioning.
+![Robogame team](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325165221_1b4d2490b16a1a077571143f1c4d906b.png)Robogame team
+
+**UHF/VHF Transceiver** — *Developer*  
+*2023 – 2024*
+
+- Developed embedded hardware and firmware for a low-IF software-defined radio transceiver based on STM32, which is a prototype of MERLIS satellite payload.
+- Worked on RF signal processing algorithms, system integration, debugging, and laboratory testing.
+
+**Wireless Optical Switch and Photodetector**
+*2022*
+
+- Designed an ESP32-based IoT system for optical platform control and light detection.
+- Practiced skills about analog front-end design, signal conditioning, EMC considerations, and opto-mechanical integration.
+
+---
+
+## Academic Activities and Service
+
+**Teaching Assistant**
+
+- TA for *Theoretical Mechanics B* (Prof. Li Yi, Fall 2025)
+- TA for *Scientific Writing and Communication* (Prof. Hao Jihua, Spring 2025)
+- TA for *Science and Society* seminar (Prof. Hao Jihu, Fall 2024)
+
+- Co-designed curriculum and lecture notes for *Orbital Dynamics* (Prof. Dang Tong)
+  
+**Student Activities**
+
+- *2023 – Present*: USTC Student Amateur Radio Association - BY6DX
+
+**Outreach**
+
+- *May 2025*: Volunteer in USTC Science Outreach Week
+- *Jul 2024*: Rural science outreach program in Liuzhi Special District, Guizhou
+- *May 2024*: Volunteer in USTC Science Outreach Week
+
+---
+
+## Skills
+
+**Programming**
+C/C++, python, MATLAB, etc.
+
+**Engineering**  
+Embedded systems design (FPGA + ARM development) • Analog Circuits (basic) • RF Design (basic)
+Optomechanical Design (basic) • Vacuum Engineering (basic)
+
+**Space Science**  
+MHD Simulation (basic) • Plasma Probe (basic)
+
+**Languages**  
+Chinese (native), English (basic, CET-4: 609; CET-6: 575)
+
+**Certification**  
+Low-voltage Electrician Certificate (MEM, certified to work below 1kV)
