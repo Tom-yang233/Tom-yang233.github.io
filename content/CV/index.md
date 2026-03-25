@@ -113,8 +113,8 @@ Tools: High-speed PCB Design, Vivado, Vitis HLS, PetaLinux, Linux Driver Develop
 
 ---
 
-## Academic Activities and Service
-**Conferences & Workshops**
+## Activities & Services
+**Conferences**
 
 - Students' Micro-satellite Forum | Hefei, China 2025 | **Organizer**
   - **Oral Talk**: *Design of a Wide-angle Optical Transient Detector for CubeSat Applications*
@@ -131,7 +131,7 @@ Tools: High-speed PCB Design, Vivado, Vitis HLS, PetaLinux, Linux Driver Develop
   
 **Student Activities**
 
-- *2023 – Present*: USTC Student Amateur Radio Association - BY6DX
+- *2023 – Present*: USTC Student Amateur Radio Club - BY6DX
 
 **Outreach**
 
