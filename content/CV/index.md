@@ -22,7 +22,16 @@ Personal Website: https://blog.barbarian.icu
 
 ## Research Interests
 I am an undergraduate student with experience in FPGA-based data systems, analog electronics, and satellite payload development.  
-I aim to pursue research as an instrumentation-focused planetary scientist, with interests in space instrumentation and planetary plasma environments.
+I aim to pursue research as an instrumentation-focused planetary scientist, with a focus on space instrumentation and planetary plasma environments.
+
+## Highlights
+- Ranked 1/37 in USTC program (GPA 3.95/4.30)
+- Leading CubeSat payload development (61 MP imaging system)
+- Successfully obtained funding (~240K RMB) from multiple competitive USTC funding programs to support CubeSat payload development.
+- Designing femtoampere-level analog front-end (TIA) for ion detection
+
+## Availability
+Available for research internships Jun–Aug 2026. Open to relocation within Europe and Asia.
 
 ---
 
@@ -47,17 +56,19 @@ None to date :(
 
 ## Research & Technical Experience
 
-**Solar-Terrestrial Exploration & Physic Group | USTC**  
+**Solar-Terrestrial Exploration & Physics Group | USTC**  
 *2025.9 - Present*
 
-Mentors: Prof. Wang Yuming & Hao Xinjun
+Mentors: Prof. Wang Yuming & Hao Xinjun  
 - Training in space instrumentation, including scientific objective definition and hands-on engineering practice.
 
 ---
 
 **Numerical Study of Lunar Mini-Magnetosphere Interactions**  
 *2026.3 - Present*
-Mentors: Prof. Tong Dang & Jinting Kang; Collaborators: Yiran Yang, Chengyan Huang, et al.
+
+Mentors: Prof. Tong Dang & Jinting Kang; Collaborators: Yiran Yang, Chengyan Huang, et al.  
+Tools: Python, FORTRAN, Linux (HPC), MHD simulation  
 - Employed the Kaiju MHD code to simulate solar wind deflection by lunar crustal magnetic anomalies.
 - Investigating space weathering effects in magnetized regions.
 - Conducted as part of the USTC Undergraduate Research Training Program.
@@ -65,16 +76,18 @@ Mentors: Prof. Tong Dang & Jinting Kang; Collaborators: Yiran Yang, Chengyan Hua
 **Femtoampere Transimpedance Amplifier**  
 *2026 - Present*
 
+Tools: High-impedance PCB Design, Analog Design  
 - Designing PCB for >10 TΩ gain amplifier (ADA4530-1) targeting ion detector front-ends.  
-- Learning ultra-low-current measurement techniques, including leakage current mitigation and PCB layout optimization under the guidance of Dr. Wang Shaoyang (PolyU)
+- Developing ultra-low-current measurement techniques, including leakage current mitigation and PCB layout optimization under the guidance of Dr. Wang Shaoyang (PolyU)
 
 **Optical Wide-angle Luminous Camera (OWL): an 8K Ultra-HD Spaceborne Camera**  
 *2025 – Present*
 
-- Leading optical payload design for atmospheric transient event (TLE) detection aboard MERLIS, a student CubeSat.
+Tools: High-speed PCB Design, Vivado, Vitis HLS, PetaLinux, Linux Driver Development
+- Leading optical payload design for atmospheric transient event (TLE) detection aboard MERLIS, a CubeSat mission.
 - Architected a Zynq UltraScale+–based data processing platform: Sony IMX455 (61 MP, 16-bit) → FPGA (real-time pipeline) → ARM (compression and encoding).
 [MERLIS Satellite Information](https://by6dx.github.io/2025/03/MERLIS_Satellite_Information.html)
-![IMX455 sensor board](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325164258_5b4bb462eb1279189aac8074a4ccf40b.png)IMX455 sensor board
+[Picture of IMX455 Sensor Board](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325164258_5b4bb462eb1279189aac8074a4ccf40b.png)IMX455 sensor board
 
 **Team Captain, Robogame Competition, USTC** — *4th Place*  
 *2024*
@@ -82,7 +95,7 @@ Mentors: Prof. Tong Dang & Jinting Kang; Collaborators: Yiran Yang, Chengyan Hua
 - Led a multidisciplinary robotics team integrating mechanical design, embedded systems, and computer vision.
 - Developed a robot platform based on RK3588 and STM32 for object detection, localization, grasping, and launching.
 - Implemented visual recognition using AprilTags and sensor fusion with laser ranging for navigation.
-![Robogame team](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325165221_1b4d2490b16a1a077571143f1c4d906b.png)Robogame team
+[Picture of my Robogame team](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325165221_1b4d2490b16a1a077571143f1c4d906b.png)Robogame team
 
 **DSP Developer, UHF/VHF Transceiver**  
 *2023 – 2024*
@@ -102,7 +115,7 @@ Mentors: Prof. Tong Dang & Jinting Kang; Collaborators: Yiran Yang, Chengyan Hua
 **Conferences & Workshops**
 
 - Students' Micro-satellite Forum | Hefei, China 2025 | **Organizer**
-  - **Oral Talk**: *Design of Optical Wide-angle Luminous Observer*
+  - **Oral Talk**: *Design of a Wide-angle Optical Transient Detector for CubeSat Applications*
 - The 2nd International Conference of Deep Space Sciences | Hefei, China 2025 | **Student Attendee**
 - The 6th Young Scientist Forum of Planetary Science | Huangshan, China 2025 | **Student Attendee**
 
