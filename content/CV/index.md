@@ -9,8 +9,8 @@ draft: false
 # Yang Zhiyuan (杨致远)
 
 Hefei, Anhui, China  
-Email: zhiyuanyang[at]mail.ustc.edu.cn  
-Homepage: https://blog.barbarian.icu | GitHub: https://github.com/tom-yang233  
+Email: zhiyuanyang[at]mail.ustc.edu.cn   
+Homepage: https://blog.barbarian.icu    
 Callsign: BG6HLL
 
   </div>
@@ -29,8 +29,9 @@ Operator of Amateur Radio Station BY6DX.
 
 ## Research Interests
 
-**Space Instrumentation**
-**Planetary Science**
+- **Space Instrumentation** 
+
+- **Planetary Science**
 
 ---
 
