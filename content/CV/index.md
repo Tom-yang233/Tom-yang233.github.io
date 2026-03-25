@@ -27,7 +27,7 @@ I aim to pursue research as an instrumentation-focused planetary scientist, with
 ## Highlights
 - Ranked 1/37 in USTC program (GPA 3.95/4.30)
 - Leading CubeSat payload development (61 MP imaging system)
-- Successfully obtained funding (~240K RMB) from multiple competitive USTC funding programs to support CubeSat payload development.
+- Successfully obtained funding (~240K RMB) from multiple competitive USTC funding programs to support CubeSat payload development
 - Designing femtoampere-level analog front-end (TIA) for ion detection
 
 ## Availability
@@ -49,7 +49,7 @@ Available for research internships Jun–Aug 2026. Open to relocation within Eur
 
 ## Publications
 
-None to date :(
+None to date :(  
 *Check back in 1 year?*
 
 ---
@@ -57,7 +57,7 @@ None to date :(
 ## Research & Technical Experience
 
 **Solar-Terrestrial Exploration & Physics Group | USTC**  
-*2025.9 - Present*
+*2025 - Present*
 
 Mentors: Prof. Wang Yuming & Hao Xinjun  
 - Training in space instrumentation, including scientific objective definition and hands-on engineering practice.
@@ -67,7 +67,7 @@ Mentors: Prof. Wang Yuming & Hao Xinjun
 **Numerical Study of Lunar Mini-Magnetosphere Interactions**  
 *2026 - Present*
 
-Mentors: Prof. Tong Dang & Jinting Kang; Collaborators: Yiran Yang, Chengyan Huang, et al.  
+Mentors: Prof. Dang Tong & Kang Jinting; Collaborators: Yang Yiran, Huang Chengyan, et al.  
 Tools: Python, FORTRAN, Linux (HPC), MHD simulation  
 - Employed the Kaiju MHD code to simulate solar wind deflection by lunar crustal magnetic anomalies.
 - Investigating space weathering effects in magnetized regions.
@@ -85,17 +85,19 @@ Tools: High-impedance PCB Design, Analog Design
 
 Tools: High-speed PCB Design, Vivado, Vitis HLS, PetaLinux, Linux Driver Development
 - Leading optical payload design for atmospheric transient event (TLE) detection aboard MERLIS, a CubeSat mission.
-- Architected a Zynq UltraScale+–based data processing platform: Sony IMX455 (61 MP, 16-bit) → FPGA (real-time pipeline) → ARM (compression and encoding).
-[MERLIS Satellite Information](https://by6dx.github.io/2025/03/MERLIS_Satellite_Information.html)
-[Picture of IMX455 Sensor Board](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325164258_5b4bb462eb1279189aac8074a4ccf40b.png)IMX455 sensor board
+- Architected a Zynq UltraScale+–based data processing platform: Sony IMX455 (61 MP, 16-bit) → FPGA (real-time pipeline) → ARM (compression and encoding).  
+
+[MERLIS Satellite Information](https://by6dx.github.io/2025/03/MERLIS_Satellite_Information.html)  
+[Picture of IMX455 Sensor Board](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325164258_5b4bb462eb1279189aac8074a4ccf40b.png)  
 
 **Team Captain, Robogame Competition, USTC** — *4th Place*  
 *2024*
 
 - Led a multidisciplinary robotics team integrating mechanical design, embedded systems, and computer vision.
 - Developed a robot platform based on RK3588 and STM32 for object detection, localization, grasping, and launching.
-- Implemented visual recognition using AprilTags and sensor fusion with laser ranging for navigation.
-[Picture of my Robogame team](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325165221_1b4d2490b16a1a077571143f1c4d906b.png)Robogame team
+- Implemented visual recognition using AprilTags and sensor fusion with laser ranging for navigation.  
+
+[Picture of my Robogame team](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325165221_1b4d2490b16a1a077571143f1c4d906b.png)
 
 **DSP Developer, UHF/VHF Transceiver**  
 *2023 – 2024*
