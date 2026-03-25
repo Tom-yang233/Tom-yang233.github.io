@@ -65,7 +65,7 @@ Mentors: Prof. Wang Yuming & Hao Xinjun
 ---
 
 **Numerical Study of Lunar Mini-Magnetosphere Interactions**  
-*2026.3 - Present*
+*2026 - Present*
 
 Mentors: Prof. Tong Dang & Jinting Kang; Collaborators: Yiran Yang, Chengyan Huang, et al.  
 Tools: Python, FORTRAN, Linux (HPC), MHD simulation  
