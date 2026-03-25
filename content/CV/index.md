@@ -1,13 +1,12 @@
 ---
 title: "Curriculum Vitae"
-date: 2026-03-25
 draft: false
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1 1 420px; min-width: 280px;">
 
-# Yang Zhiyuan
+# Yang Zhiyuan (杨致远)
 
 Hefei, Anhui, China  
 Email: zhiyuanyang[at]mail.ustc.edu.cn  
@@ -16,14 +15,15 @@ Callsign: BG6HLL
 
   </div>
   <div style="flex: 0 0 180px; text-align: right;">
-    <img src="https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325173745_4cd177289844220b5f2aae843d813625.png" alt="Photo" style="width: 120px; max-width: 100%; height: auto; border-radius: 6px;" />
+    <img src="https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325173745_4cd177289844220b5f2aae843d813625.png" alt="Photo" style="width: 160px; max-width: 100%; height: auto; border-radius: 6px;" />
   </div>
 </div>
 
 ---
 
-Undergraduated student at USTC.
-Operator of Amateur Radio Station BY6DX.
+Undergraduate student at USTC.  
+
+Operator of Amateur Radio Station BY6DX.  
 
 ---
 
@@ -54,6 +54,21 @@ None to date :(
 
 ## Research Experience
 
+**Solar-Terrestrial Exploration & Physic Group | USTC**
+*2025.9 - Present*
+
+- Mentor: Prof. Wang Yuming & Hao Xinjun
+- Learning to build space instruments, including scientific goals development and specific engineer practice.
+
+**Simulation of Solar Wind Flux on the Lunar Surface under Magnetic Anomaly Influence**
+*2026.3 - Present*
+
+- Using MHD module (kaiju) to simulate the impact of magnetic anomalies on Lunar surface Solar wind flux.
+- Project of USTC research training course.
+- Mentor: Prof. Dang Tong & Prof. Kang Jinting
+- Partner: Yang Yiran, Huang Chengyan, Xiao Yuhang & Qu Zicheng
+
+
 ---
 
 ## Project Experience
@@ -61,7 +76,7 @@ None to date :(
 **10T ohm Transimpedence Amplifier**
 *2026 - Present*
 
-- Using ADA4530-1 to build a precision TIA.
+- Build a precision TIA using ADA4530-1, which can be used in MS or ion detector, etc.
 - Learning high-precision measurment technique under the guidance of Dr. Wang Shaoyang (PolyU)
 
 **8K Ultra-HD Spaceborne Camera**
