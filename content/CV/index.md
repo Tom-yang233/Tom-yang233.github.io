@@ -39,11 +39,11 @@ Operator of Amateur Radio Station BY6DX.
 
 **University of Science and Technology of China (USTC)**, Hefei, China  
 **B.Sc. Candidate** in Space Science and Technology  
-(Interdisciplinary Program in Planetary Science and Exploration, School of the Gifted Young)
+(Interdisciplinary Program in Planetary Science and Exploration, School of the Gifted Young)  
 *Sep 2023 – Jun 2027 (expected)*
 
 - GPA: 3.95/4.30, ranked 1/37 (2026.3)
-- Relevant coursework: Theoretical Mechanics, Electrodynamics, Plasma Physics, Signals and Systems, Modern Communication Optoelectronics, Principles of Space Instruments, Orbital Dynamics ...
+- **Relevant coursework**: Theoretical Mechanics, Electrodynamics, Plasma Physics, Signals and Systems, Modern Communication Optoelectronics, Principles of Space Instruments, Orbital Dynamics ...
 
 ---
 
@@ -55,13 +55,17 @@ None to date :(
 
 ## Research Experience
 
-**Solar-Terrestrial Exploration & Physic Group | USTC**
+**Solar-Terrestrial Exploration & Physic Group | USTC**  
 *2025.9 - Present*
 
 - Mentor: Prof. Wang Yuming & Hao Xinjun
 - Learning to build space instruments, including scientific goals development and specific engineer practice.
 
-**Simulation of Solar Wind Flux on the Lunar Surface under Magnetic Anomaly Influence**
+---
+
+## Project Experience
+
+**Simulation of Solar Wind Flux on the Lunar Surface under Magnetic Anomaly Influence**  
 *2026.3 - Present*
 
 - Using MHD module (kaiju) to simulate the impact of magnetic anomalies on Lunar surface Solar wind flux.
@@ -69,18 +73,13 @@ None to date :(
 - Mentor: Prof. Dang Tong & Prof. Kang Jinting
 - Partner: Yang Yiran, Huang Chengyan, Xiao Yuhang & Qu Zicheng
 
-
----
-
-## Project Experience
-
-**10T ohm Transimpedence Amplifier**
+**10T ohm Transimpedence Amplifier**  
 *2026 - Present*
 
 - Build a precision TIA using ADA4530-1, which can be used in MS or ion detector, etc.
 - Learning high-precision measurment technique under the guidance of Dr. Wang Shaoyang (PolyU)
 
-**8K Ultra-HD Spaceborne Camera**
+**8K Ultra-HD Spaceborne Camera**  
 *2025 – Present*
 
 - Leading the scientific and engineering design of a student satellite (MERLIS) payload for Earth observation.
@@ -103,7 +102,7 @@ None to date :(
 - Developed embedded hardware and firmware for a low-IF software-defined radio transceiver based on STM32, which is a prototype of MERLIS satellite payload.
 - Worked on RF signal processing algorithms, system integration, debugging, and laboratory testing.
 
-**Wireless Optical Switch and Photodetector**
+**Wireless Optical Switch and Photodetector**  
 *2022*
 
 - Designed an ESP32-based IoT system for optical platform control and light detection.
@@ -135,11 +134,11 @@ None to date :(
 
 ## Skills
 
-**Programming**
+**Programming**  
 C/C++, python, MATLAB, etc.
 
 **Engineering**  
-Embedded systems design (FPGA + ARM development) • Analog Circuits (basic) • RF Design (basic)
+Embedded systems design (FPGA + ARM development) • Analog Circuits (basic) • RF Design (basic)  
 Optomechanical Design (basic) • Vacuum Engineering (basic)
 
 **Space Science**  
