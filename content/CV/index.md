@@ -10,8 +10,7 @@ draft: false
 
 Hefei, Anhui, China  
 Email: zhiyuanyang[at]mail.ustc.edu.cn   
-Homepage: https://blog.barbarian.icu    
-Callsign: BG6HLL
+Personal Website: https://blog.barbarian.icu   
 
   </div>
   <div style="flex: 0 0 180px; text-align: right;">
@@ -21,17 +20,9 @@ Callsign: BG6HLL
 
 ---
 
-Undergraduate student at USTC.  
-
-Operator of Amateur Radio Station BY6DX.  
-
----
-
 ## Research Interests
-
-- **Space Instrumentation** 
-
-- **Planetary Science**
+I am an undergraduate student with experience in FPGA-based data systems, analog electronics, and satellite payload development.  
+I aim to pursue research as an instrumentation-focused planetary scientist, with interests in space instrumentation and planetary plasma environments.
 
 ---
 
@@ -40,83 +31,86 @@ Operator of Amateur Radio Station BY6DX.
 **University of Science and Technology of China (USTC)**, Hefei, China  
 **B.Sc. Candidate** in Space Science and Technology  
 (Interdisciplinary Program in Planetary Science and Exploration, School of the Gifted Young)  
-*Sep 2023 – Jun 2027 (expected)*
+*Sep 2023 – Expected Jun 2027*
 
-- GPA: 3.95/4.30, ranked 1/37 (2026.3)
-- **Relevant coursework**: Theoretical Mechanics, Electrodynamics, Plasma Physics, Signals and Systems, Modern Communication Optoelectronics, Principles of Space Instruments, Orbital Dynamics ...
+- **GPA**: 3.95/4.30 (Rank: 1/37, as of Mar 2026)
+- **Selected Coursework**: Theoretical Mechanics, Electrodynamics, Plasma Physics, Signals and Systems, Optical Communications, Principles of Space Instruments, Orbital Dynamics
 
 ---
 
 ## Publications
 
 None to date :(
+*Check back in 1 year?*
 
 ---
 
-## Research Experience
+## Research & Technical Experience
 
 **Solar-Terrestrial Exploration & Physic Group | USTC**  
 *2025.9 - Present*
 
-- Mentor: Prof. Wang Yuming & Hao Xinjun
-- Learning to build space instruments, including scientific goals development and specific engineer practice.
+Mentors: Prof. Wang Yuming & Hao Xinjun
+- Training in space instrumentation, including scientific objective definition and hands-on engineering practice.
 
 ---
 
-## Project Experience
-
-**Simulation of Solar Wind Flux on the Lunar Surface under Magnetic Anomaly Influence**  
+**Numerical Study of Lunar Mini-Magnetosphere Interactions**  
 *2026.3 - Present*
+Mentors: Prof. Tong Dang & Jinting Kang; Collaborators: Yiran Yang, Chengyan Huang, et al.
+- Employed the Kaiju MHD code to simulate solar wind deflection by lunar crustal magnetic anomalies.
+- Investigating space weathering effects in magnetized regions.
+- Conducted as part of the USTC Undergraduate Research Training Program.
 
-- Using MHD module (kaiju) to simulate the impact of magnetic anomalies on Lunar surface Solar wind flux.
-- Project of USTC research training course.
-- Mentor: Prof. Dang Tong & Prof. Kang Jinting
-- Partner: Yang Yiran, Huang Chengyan, Xiao Yuhang & Qu Zicheng
-
-**10T ohm Transimpedence Amplifier**  
+**Femtoampere Transimpedance Amplifier**  
 *2026 - Present*
 
-- Build a precision TIA using ADA4530-1, which can be used in MS or ion detector, etc.
-- Learning high-precision measurment technique under the guidance of Dr. Wang Shaoyang (PolyU)
+- Designing PCB for >10 TΩ gain amplifier (ADA4530-1) targeting ion detector front-ends.  
+- Learning ultra-low-current measurement techniques, including leakage current mitigation and PCB layout optimization under the guidance of Dr. Wang Shaoyang (PolyU)
 
-**8K Ultra-HD Spaceborne Camera**  
+**Optical Wide-angle Luminous Camera (OWL): an 8K Ultra-HD Spaceborne Camera**  
 *2025 – Present*
 
-- Leading the scientific and engineering design of a student satellite (MERLIS) payload for Earth observation.
-- Contributing to system architecture, instrument concept development, and hardware implementation based on Zynq PS+PL platforms.
-- Target application: observation of upper-atmosphere transient luminous events such as sprites.
+- Leading optical payload design for atmospheric transient event (TLE) detection aboard MERLIS, a student CubeSat.
+- Architected a Zynq UltraScale+–based data processing platform: Sony IMX455 (61 MP, 16-bit) → FPGA (real-time pipeline) → ARM (compression and encoding).
 [MERLIS Satellite Information](https://by6dx.github.io/2025/03/MERLIS_Satellite_Information.html)
 ![IMX455 sensor board](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325164258_5b4bb462eb1279189aac8074a4ccf40b.png)IMX455 sensor board
 
-**Robogame Competition, USTC** — *Team Captain, 4th Place*  
+**Team Captain, Robogame Competition, USTC** — *4th Place*  
 *2024*
 
-- Led a multidisciplinary student robotics team integrating mechanical design, embedded control, and computer vision.
-- Built a robot platform based on RK3588 and STM32 for object detection, localization, grasping, and launching tasks.
-- Implemented visual recognition of target objects and AprilTags, fused with laser ranging for navigation and positioning.
+- Led a multidisciplinary robotics team integrating mechanical design, embedded systems, and computer vision.
+- Developed a robot platform based on RK3588 and STM32 for object detection, localization, grasping, and launching.
+- Implemented visual recognition using AprilTags and sensor fusion with laser ranging for navigation.
 ![Robogame team](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325165221_1b4d2490b16a1a077571143f1c4d906b.png)Robogame team
 
-**UHF/VHF Transceiver** — *Developer*  
+**DSP Developer, UHF/VHF Transceiver**  
 *2023 – 2024*
 
-- Developed embedded hardware and firmware for a low-IF software-defined radio transceiver based on STM32, which is a prototype of MERLIS satellite payload.
-- Worked on RF signal processing algorithms, system integration, debugging, and laboratory testing.
+- Developed an STM32H7-based SDR transceiver prototype for MERLIS satellite TT&C.
+- Implemented RF signal processing algorithms and conducted system integration, debugging, and testing.
 
 **Wireless Optical Switch and Photodetector**  
 *2022*
 
-- Designed an ESP32-based IoT system for optical platform control and light detection.
-- Practiced skills about analog front-end design, signal conditioning, EMC considerations, and opto-mechanical integration.
+- Designed an ESP32-based IoT system for optical platform control and photodetection.
+- Gained experience in analog front-end design, signal conditioning, EMC, and optomechanical integration.
 
 ---
 
 ## Academic Activities and Service
+**Conferences & Workshops**
+
+- Students' Micro-satellite Forum | Hefei, China 2025 | **Organizer**
+  - **Oral Talk**: *Design of Optical Wide-angle Luminous Observer*
+- The 2nd International Conference of Deep Space Sciences | Hefei, China 2025 | **Student Attendee**
+- The 6th Young Scientist Forum of Planetary Science | Huangshan, China 2025 | **Student Attendee**
 
 **Teaching Assistant**
 
 - TA for *Theoretical Mechanics B* (Prof. Li Yi, Fall 2025)
 - TA for *Scientific Writing and Communication* (Prof. Hao Jihua, Spring 2025)
-- TA for *Science and Society* seminar (Prof. Hao Jihu, Fall 2024)
+- TA for *Science and Society* seminar (Prof. Hao Jihua, Fall 2024)
 
 - Co-designed curriculum and lecture notes for *Orbital Dynamics* (Prof. Dang Tong)
   
@@ -132,20 +126,29 @@ None to date :(
 
 ---
 
+## Honors & Awards
+
+- **Outstanding Student Scholarship (Silver Award)** — USTC, 2025  
+- **JAC-NIO Scholarship** — USTC, 2024  
+- **Freshman Scholarship** — USTC, 2023  
+
+
+---
+
 ## Skills
 
 **Programming**  
-C/C++, python, MATLAB, etc.
+C/C++, Python, MATLAB, Julia
 
 **Engineering**  
-Embedded systems design (FPGA + ARM development) • Analog Circuits (basic) • RF Design (basic)  
-Optomechanical Design (basic) • Vacuum Engineering (basic)
+Embedded Systems (FPGA & ARM) • Analog Circuit Design • RF Systems  
+Optomechanical Design • Vacuum Systems
 
-**Space Science**  
-MHD Simulation (basic) • Plasma Probe (basic)
+**Space Science & Instrument**  
+MHD Simulation • Plasma Diagnostics • Space Environment Testing
 
 **Languages**  
-Chinese (native), English (basic, CET-4: 609; CET-6: 575)
+Chinese (native), English (Intermediate; CET-4: 609, CET-6: 575)
 
 **Certification**  
 Low-voltage Electrician Certificate (MEM, certified to work below 1kV)
