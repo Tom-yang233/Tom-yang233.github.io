@@ -20,18 +20,19 @@ Personal Website: https://blog.barbarian.icu
 
 ---
 
+## Motivation
+Seeking research internship opportunities for Jun–Aug 2026; open to relocation within Europe and Asia.  
+
 ## Research Interests
 I am an undergraduate student with experience in FPGA-based data systems, analog electronics, and satellite payload development.  
-I aim to pursue research as an instrumentation-focused planetary scientist, with a focus on space instrumentation and planetary plasma environments.
+I aim to pursue research as an instrumentation-oriented planetary scientist, focusing on space instrumentation for studying atmosphere–ionosphere–magnetosphere coupling in planetary environments.  
+My interests include the development of spaceborne instruments such as imaging systems, photometers, magnetometers, plasma impedance probes, and particle detectors for in situ and remote sensing measurements.  
 
 ## Highlights
-- Ranked 1/37 in USTC program (GPA 3.95/4.30)
-- Leading CubeSat payload development (61 MP imaging system)
-- Successfully obtained funding (~240K RMB) from multiple competitive USTC funding programs to support CubeSat payload development
-- Designing femtoampere-level analog front-end (TIA) for ion detection
-
-## Availability
-Available for research internships Jun–Aug 2026. Open to relocation within Europe and Asia.
+- Rank 1/37 (GPA 3.95/4.30), Space Science and Technology, Class of 2023, USTC
+- Lead developer of CubeSat payload (61 MP imaging system)
+- Recipient of ~240K RMB in competitive funding from USTC programs for CubeSat payload development
+- Design of femtoampere-level analog front-end (TIA) for ion detection
 
 ---
 
@@ -60,64 +61,70 @@ None to date :(
 *2025 - Present*
 
 Mentors: Prof. Wang Yuming & Hao Xinjun  
-- Training in space instrumentation, including scientific objective definition and hands-on engineering practice.
+- Training in space instrumentation, including scientific objective definition and hands-on engineering practice  
 
 ---
 
 **Numerical Study of Lunar Mini-Magnetosphere Interactions**  
-*2026 - Present*
+*2026 – Present*
 
-Mentors: Prof. Dang Tong & Kang Jinting; Collaborators: Yang Yiran, Huang Chengyan, et al.  
-Tools: Python, FORTRAN, Linux (HPC), MHD simulation  
-- Employed the Kaiju MHD code to simulate solar wind deflection by lunar crustal magnetic anomalies.
-- Investigating space weathering effects in magnetized regions.
-- Conducted as part of the USTC Undergraduate Research Training Program.
+Mentors: Prof. Dang Tong & Kang Jinting  
+Collaborators: Yang Yiran, Huang Chengyan, et al.  
+Tools: Python, Fortran, Linux (HPC), MHD simulation  
+
+- Simulate solar wind deflection by lunar crustal magnetic anomalies using the Kaiju MHD code  
+- Investigate space weathering effects in magnetized regions  
+- Conduct research under the USTC Undergraduate Research Training Program  
 
 **Femtoampere Transimpedance Amplifier**  
-*2026 - Present*
+*2026 – Present*
 
-Tools: High-impedance PCB Design, Analog Design  
-- Designing PCB for >10 TΩ gain amplifier (ADA4530-1) targeting ion detector front-ends.  
-- Developing ultra-low-current measurement techniques, including leakage current mitigation and PCB layout optimization under the guidance of Dr. Wang Shaoyang (PolyU)
+Tools: High-Impedance PCB Design, Analog Circuit Design  
+
+- Design a 10 TΩ transimpedance amplifier (ADA4530-1) for ion detector front-end applications  
+- Develop ultra-low-current measurement techniques, including leakage current mitigation and PCB layout optimization (under the guidance of Dr. Wang Shaoyang, PolyU)  
 
 **Optical Wide-angle Luminous Camera (OWL): an 8K Ultra-HD Spaceborne Camera**  
 *2025 – Present*
 
-Tools: High-speed PCB Design, Vivado, Vitis HLS, PetaLinux, Linux Driver Development
-- Leading optical payload design for atmospheric transient event (TLE) detection aboard MERLIS, a CubeSat mission.
-- Architected a Zynq UltraScale+–based data processing platform: Sony IMX455 (61 MP, 16-bit) → FPGA (real-time pipeline) → ARM (compression and encoding).  
+Tools: High-Speed PCB Design, Vivado, Vitis HLS, PetaLinux, Linux Driver Development  
 
-[MERLIS Satellite Information](https://by6dx.github.io/2025/03/MERLIS_Satellite_Information.html)  
+- Lead optical payload design for atmospheric transient event (TLE) detection aboard the MERLIS CubeSat mission  
+- Architect a Zynq UltraScale+–based data processing pipeline: Sony IMX455 (61 MP, 16-bit) → FPGA (real-time processing) → ARM (compression and encoding)  
+
+Related links: 
+[MERLIS Satellite Information](https://by6dx.github.io/2025/03/MERLIS_Satellite_Information.html) | 
 [Picture of IMX455 Sensor Board](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325164258_5b4bb462eb1279189aac8074a4ccf40b.png)  
 
 **Team Captain, Robogame Competition, USTC** — *4th Place*  
 *2024*
 
-- Led a multidisciplinary robotics team integrating mechanical design, embedded systems, and computer vision.
-- Developed a robot platform based on RK3588 and STM32 for object detection, localization, grasping, and launching.
-- Implemented visual recognition using AprilTags and sensor fusion with laser ranging for navigation.  
+- Led a multidisciplinary robotics team integrating mechanical design, embedded systems, and computer vision  
+- Developed a robot platform based on RK3588 and STM32 for object detection, localization, grasping, and launching  
+- Implemented visual recognition using AprilTags and sensor fusion with laser ranging for navigation  
 
+Related links: 
 [Picture of my Robogame team](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325165221_1b4d2490b16a1a077571143f1c4d906b.png)
 
 **DSP Developer, UHF/VHF Transceiver**  
 *2023 – 2024*
 
-- Developed an STM32H7-based SDR transceiver prototype for MERLIS satellite TT&C.
-- Implemented RF signal processing algorithms and conducted system integration, debugging, and testing.
+- Developed an STM32H7-based SDR transceiver prototype for MERLIS satellite TT&C  
+- Implemented RF signal processing algorithms and conducted system integration, debugging, and testing  
 
 **Wireless Optical Switch and Photodetector**  
 *2022*
 
-- Designed an ESP32-based IoT system for optical platform control and photodetection.
-- Gained experience in analog front-end design, signal conditioning, EMC, and optomechanical integration.
+- Designed an ESP32-based IoT system for optical platform control and photodetection  
+- Gained experience in analog front-end design, signal conditioning, EMC, and optomechanical integration  
 
 ---
 
 ## Activities & Services
 **Conferences**
 
-- Students' Micro-satellite Forum | Hefei, China 2025 | **Organizer**
-  - **Oral Talk**: *Design of a Wide-angle Optical Transient Detector for CubeSat Applications*
+- Students' Micro-satellite Forum | Hefei, China 2025 | **Chair**
+  - **Oral Presentation**: *Design of a Wide-angle Optical Transient Detector for CubeSat Applications*
 - The 2nd International Conference of Deep Space Sciences | Hefei, China 2025 | **Student Attendee**
 - The 6th Young Scientist Forum of Planetary Science | Huangshan, China 2025 | **Student Attendee**
 
@@ -127,11 +134,7 @@ Tools: High-speed PCB Design, Vivado, Vitis HLS, PetaLinux, Linux Driver Develop
 - TA for *Scientific Writing and Communication* (Prof. Hao Jihua, Spring 2025)
 - TA for *Science and Society* seminar (Prof. Hao Jihua, Fall 2024)
 
-- Co-designed curriculum and lecture notes for *Orbital Dynamics* (Prof. Dang Tong)
-  
-**Student Activities**
-
-- *2023 – Present*: USTC Student Amateur Radio Club - BY6DX
+- Co-designed curriculum and lecture notes for *Orbital Dynamics* (Prof. Dang Tong) 
 
 **Outreach**
 
@@ -139,6 +142,10 @@ Tools: High-speed PCB Design, Vivado, Vitis HLS, PetaLinux, Linux Driver Develop
 - *Jul 2024*: Rural science outreach program in Liuzhi Special District, Guizhou
 - *May 2024*: Volunteer in USTC Science Outreach Week
 
+**Student Activities**
+
+- *2023 – Present*: USTC Student Amateur Radio Club - BY6DX
+ 
 ---
 
 ## Honors & Awards
@@ -157,13 +164,13 @@ C/C++, Python, MATLAB, Julia
 
 **Engineering**  
 Embedded Systems (FPGA & ARM) • Analog Circuit Design • RF Systems  
-Optomechanical Design • Vacuum Systems
+Optomechanical Design • Vacuum Systems • Space Environment Testing  
 
-**Space Science & Instrument**  
-MHD Simulation • Plasma Diagnostics • Space Environment Testing
+**Research**  
+MHD Simulation • Plasma Diagnostics
 
 **Languages**  
-Chinese (native), English (Intermediate; CET-4: 609, CET-6: 575)
+Chinese (Native), English (Fluent; CET-4: 609, CET-6: 575)
 
-**Certification**  
+**Certificates**  
 Low-voltage Electrician Certificate (MEM, certified to work below 1kV)
