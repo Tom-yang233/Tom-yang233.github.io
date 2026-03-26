@@ -26,12 +26,12 @@ Seeking research internship opportunities for Jun–Aug 2026; open to relocation
 ## Research Interests
 I am an undergraduate student with experience in FPGA-based data systems, analog electronics, and satellite payload development.  
 I aim to pursue research as an instrumentation-oriented planetary scientist, focusing on space instrumentation for studying atmosphere–ionosphere–magnetosphere coupling in planetary environments.  
-My interests include the development of spaceborne instruments such as imaging systems, photometers, magnetometers, plasma impedance probes, and particle detectors for in situ and remote sensing measurements.  
+My interests include the development of spaceborne instruments such as imaging systems, photometers, magnetometers, plasma probes, and particle detectors for in situ and remote sensing measurements.  
 
 ## Highlights
 - Rank 1/37 (GPA 3.95/4.30), Space Science and Technology, Class of 2023, USTC
 - Lead developer of CubeSat payload (61 MP imaging system)
-- Recipient of ~240K RMB in competitive funding from USTC programs for CubeSat payload development
+- Recipient of ~340K RMB in competitive funding from USTC programs for CubeSat payload development
 - Design of femtoampere-level analog front-end (TIA) for ion detection
 
 ---
@@ -61,7 +61,11 @@ None to date :(
 *2025 - Present*
 
 Mentors: Prof. Wang Yuming & Dr. Hao Xinjun  
+
 - Training in space instrumentation, including scientific objective definition and hands-on engineering practice  
+
+Related links: 
+[STEP Group Website](step.ustc.edu.cn)
 
 ---
 
@@ -79,10 +83,11 @@ Tools: Python, Fortran, Linux (HPC), MHD simulation
 **Femtoampere Transimpedance Amplifier**  
 *2026 – Present*
 
+Mentor: Dr. Wang Shaoyang (PolyU)  
 Tools: High-Impedance PCB Design, Analog Circuit Design  
 
 - Design a 10 TΩ transimpedance amplifier (ADA4530-1) for ion detector front-end applications  
-- Develop ultra-low-current measurement techniques, including leakage current mitigation and PCB layout optimization (under the guidance of Dr. Wang Shaoyang, PolyU)  
+- Develop ultra-low-current measurement techniques, including leakage current mitigation and PCB layout optimization
 
 **Optical Wide-angle Luminous Camera (OWL): an 8K Ultra-HD Spaceborne Camera**  
 *2025 – Present*
@@ -173,21 +178,21 @@ MHD Simulation • Plasma Diagnostics
 Chinese (Native), English (Fluent; CET-4: 609, CET-6: 575)
 
 **Certificates**  
-Low-voltage Electrician Certificate (MEM, certified to work below 1kV)\
+Low-voltage Electrician Certificate (MEM, certified to work below 1kV)
 
 ---
 
 ## References
 
+*All contact information available upon request*
+
 **Prof. Wang Yuming**  
 
-Professor of Space Physics, School of Earth and Space Sciences  
+Professor, School of Earth and Space Sciences  
 Vice President, University of Science and Technology of China (USTC)  
 Deputy Director, National Key Laboratory of Deep Space Exploration  
  
 *Relationship: Undergraduate research mentor / Academic advisor (2023-Prensent)*  
-
-Contact information available upon request  
 
 **Dr. Hao Xinjun**  
 
@@ -196,16 +201,12 @@ University of Science and Technology of China (USTC)
 
 *Relationship: 	Laboratory supervisor and engineering mentor (2025-Prensent)*  
 
-Contact information available upon request  
-
 **Prof. Dangtong**  
 
 Associate Professor, School of Earth and Space Sciences  
 University of Science and Technology of China (USTC)   
 
-*Relationship: Undergraduate research supervisor (2023-Prensent); mentored independent project on MHD simulation*  
-
-Contact information available upon request  
+*Relationship: Undergraduate research supervisor (2023-Prensent); mentored independent project on MHD simulation*    
 
 **Dr. Wang Shaoyang**  
 
@@ -213,5 +214,3 @@ Postdoctoral Fellow, Department of Building Services Engineering
 The Hong Kong Polytechnic University (PolyU)  
 
 *Relationship: External research mentor (2025-Prensent); collaborative project on analog front-end design initiated through shared research interests*  
-
-Contact information available upon request  
