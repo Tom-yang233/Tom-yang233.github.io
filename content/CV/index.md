@@ -201,7 +201,7 @@ University of Science and Technology of China (USTC)
 
 *Relationship: 	Laboratory supervisor and engineering mentor (2025-Prensent)*  
 
-**Prof. Dangtong**  
+**Prof. Dang Tong**  
 
 Associate Professor, School of Earth and Space Sciences  
 University of Science and Technology of China (USTC)   
