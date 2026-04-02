@@ -21,7 +21,7 @@ Personal Website: https://blog.barbarian.icu
 ---
 
 ## Motivation
-Seeking research internship opportunities for Jun–Aug 2026; open to relocation within Europe and Asia.  
+Seeking research internship opportunities for Jul–Aug 2026; open to relocation within Europe and Asia.  
 
 ## Research Interests
 I am an undergraduate student with experience in FPGA-based data systems, analog electronics, and satellite payload development.  
