@@ -1,6 +1,7 @@
 ---
 title: "Curriculum Vitae"
 draft: false
+slug: cv
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
@@ -20,12 +21,12 @@ Personal Website: https://blog.barbarian.icu
 
 ---
 
-## Motivation
-Seeking research internship opportunities for Jul–Aug 2026; open to relocation within Europe and Asia.  
+<details>
+  <summary><strong> Abstract </strong></summary>
 
 ## Research Interests
 I am an undergraduate student with experience in FPGA-based data systems, analog electronics, and satellite payload development.  
-I aim to pursue research as an instrumentation-oriented planetary scientist, focusing on space instrumentation for studying atmosphere–ionosphere–magnetosphere coupling in planetary environments.  
+I aim to pursue research as an instrumentation-oriented planetary scientist, focusing on space instrumentation for studying atmosphere-ionosphere-magnetosphere coupling in planetary environments.  
 My interests include the development of spaceborne instruments such as imaging systems, photometers, magnetometers, plasma probes, and particle detectors for in situ and remote sensing measurements.  
 
 ## Highlights
@@ -34,6 +35,8 @@ My interests include the development of spaceborne instruments such as imaging s
 - Recipient of ~340K RMB in competitive funding from USTC programs for CubeSat payload development
 - Design of femtoampere-level analog front-end (TIA) for ion detection
 
+</details>
+
 ---
 
 ## Education
@@ -41,7 +44,7 @@ My interests include the development of spaceborne instruments such as imaging s
 **University of Science and Technology of China (USTC)**, Hefei, China  
 **B.Sc. Candidate** in Space Science and Technology  
 (Interdisciplinary Program in Planetary Science and Exploration, School of the Gifted Young)  
-*Sep 2023 – Expected Jun 2027*
+*Sep 2023 - Expected Jun 2027*
 
 - **GPA**: 3.95/4.30 (Rank: 1/37, as of Mar 2026)
 - **Selected Coursework**: Theoretical Mechanics, Electrodynamics, Plasma Physics, Signals and Systems, Optical Communications, Principles of Space Instruments, Orbital Dynamics
@@ -65,12 +68,12 @@ Mentors: Prof. Wang Yuming & Dr. Hao Xinjun
 - Training in space instrumentation, including scientific objective definition and hands-on engineering practice  
 
 Related links: 
-[STEP Group Website](step.ustc.edu.cn)
+[STEP Group Website](https://step.ustc.edu.cn)
 
 ---
 
 **Numerical Study of Lunar Mini-Magnetosphere Interactions**  
-*2026 – Present*
+*2026 - Present*
 
 Mentors: Prof. Dang Tong & Prof. Kang Jinting  
 Collaborators: Yang Yiran, Huang Chengyan, et al.  
@@ -81,27 +84,27 @@ Tools: Python, Fortran, Linux (HPC), MHD simulation
 - Conduct research under the USTC Undergraduate Research Training Program  
 
 **Femtoampere Transimpedance Amplifier**  
-*2026 – Present*
+*2026 - Present*
 
 Mentor: Dr. Wang Shaoyang (PolyU)  
 Tools: High-Impedance PCB Design, Analog Circuit Design  
 
-- Design a 10 TΩ transimpedance amplifier (ADA4530-1) for ion detector front-end applications  
+- Design a 10 TOhm transimpedance amplifier (ADA4530-1) for ion detector front-end applications  
 - Develop ultra-low-current measurement techniques, including leakage current mitigation and PCB layout optimization
 
-**Optical Wide-angle Luminous Camera (OWL): an 8K Ultra-HD Spaceborne Camera**  
-*2025 – Present*
+**Optical Wide-angle Luminous Camera (OWL): an 8K Ultra-HD Spaceborne Camera**  
+*2025 - Present*
 
 Tools: High-Speed PCB Design, Vivado, Vitis HLS, PetaLinux, Linux Driver Development  
 
 - Lead optical payload design for atmospheric transient event (TLE) detection aboard the MERLIS CubeSat mission  
-- Architect a Zynq UltraScale+–based data processing pipeline: Sony IMX455 (61 MP, 16-bit) → FPGA (real-time processing) → ARM (compression and encoding)  
+- Architect a Zynq UltraScale+-based data processing pipeline: Sony IMX455 (61 MP, 16-bit) -> FPGA (real-time processing) -> ARM (compression and encoding)  
 
 Related links: 
 [MERLIS Satellite Information](https://by6dx.github.io/2025/03/MERLIS_Satellite_Information.html) | 
 [Picture of IMX455 Sensor Board](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325164258_5b4bb462eb1279189aac8074a4ccf40b.png)  
 
-**Team Captain, Robogame Competition, USTC** — *4th Place*  
+**Team Captain, Robogame Competition, USTC** - *4th Place*  
 *2024*
 
 - Led a multidisciplinary robotics team integrating mechanical design, embedded systems, and computer vision  
@@ -112,13 +115,17 @@ Related links:
 [Picture of my Robogame team](https://barbarian-1306448949.cos.ap-nanjing.myqcloud.com/pic/20260325165221_1b4d2490b16a1a077571143f1c4d906b.png)
 
 **DSP Developer, UHF/VHF Transceiver**  
-*2023 – 2024*
+*2023 - 2024*
+
+Collaborators: Xin Jiafan, Tian Guo, et al.
 
 - Developed an STM32H7-based SDR transceiver prototype for MERLIS satellite TT&C  
 - Implemented RF signal processing algorithms and conducted system integration, debugging, and testing  
 
 **Wireless Optical Switch and Photodetector**  
 *2022*
+
+Mentor: Prof. Huang Yunfeng, Prof. Cui Jinming and Dr. Chen Yan
 
 - Designed an ESP32-based IoT system for optical platform control and photodetection  
 - Gained experience in analog front-end design, signal conditioning, EMC, and optomechanical integration  
@@ -129,17 +136,17 @@ Related links:
 **Conferences**
 
 - Students' Micro-satellite Forum | Hefei, China 2025 | **Chair**
-  - **Oral Presentation**: *Design of a Wide-angle Optical Transient Detector for CubeSat Applications*
+- **Oral Presentation**: *Design of a Wide-angle Optical Transient Detector for CubeSat Applications*
 - The 2nd International Conference of Deep Space Sciences | Hefei, China 2025 | **Student Attendee**
 - The 6th Young Scientist Forum of Planetary Science | Huangshan, China 2025 | **Student Attendee**
 
 **Teaching Assistant**
 
+- TA for *Orbital Dynamics* (Prof. Dang Tong, Spring 2026)
 - TA for *Theoretical Mechanics B* (Prof. Li Yi, Fall 2025)
 - TA for *Scientific Writing and Communication* (Prof. Hao Jihua, Spring 2025)
 - TA for *Science and Society* seminar (Prof. Hao Jihua, Fall 2024)
-
-- Co-designed curriculum and lecture notes for *Orbital Dynamics* (Prof. Dang Tong) 
+- Co-designed curriculum and lecture notes for *Orbital Dynamics* (Prof. Dang Tong)
 
 **Outreach**
 
@@ -149,15 +156,15 @@ Related links:
 
 **Student Activities**
 
-- *2023 – Present*: USTC Student Amateur Radio Club - BY6DX
+- *2023 - Present*: USTC Student Amateur Radio Club - BY6DX
  
 ---
 
 ## Honors & Awards
 
-- **Outstanding Student Scholarship (Silver Award)** — USTC, 2025  
-- **JAC-NIO Scholarship** — USTC, 2024  
-- **Freshman Scholarship** — USTC, 2023  
+- **Outstanding Student Scholarship (Silver Award)** - USTC, 2025  
+- **JAC-NIO Scholarship** - USTC, 2024  
+- **Freshman Scholarship** - USTC, 2023  
 
 
 ---
@@ -192,25 +199,31 @@ Professor, School of Earth and Space Sciences
 Vice President, University of Science and Technology of China (USTC)  
 Deputy Director, National Key Laboratory of Deep Space Exploration  
  
-*Relationship: Undergraduate research mentor / Academic advisor (2023-Prensent)*  
+*Relationship: Undergraduate research mentor / Academic advisor (2023-Present)*  
+
+**Prof. Guo Jingnan**  
+
+Professor, School of Earth and Space Sciences  
+
+*Relationship: Undergraduate academic advisor (2024-Present)*  
 
 **Dr. Hao Xinjun**  
 
 Senior Engineer, School of Earth and Space Sciences  
 University of Science and Technology of China (USTC)    
 
-*Relationship: 	Laboratory supervisor and engineering mentor (2025-Prensent)*  
+*Relationship: Laboratory supervisor and engineering mentor (2025-Present)*  
 
 **Prof. Dang Tong**  
 
 Associate Professor, School of Earth and Space Sciences  
 University of Science and Technology of China (USTC)   
 
-*Relationship: Undergraduate research supervisor (2023-Prensent); mentored independent project on MHD simulation*    
+*Relationship: Undergraduate research supervisor (2023-Present); mentored independent project on MHD simulation*    
 
 **Dr. Wang Shaoyang**  
 
 Postdoctoral Fellow, Department of Building Services Engineering  
 The Hong Kong Polytechnic University (PolyU)  
 
-*Relationship: External research mentor (2025-Prensent); collaborative project on analog front-end design initiated through shared research interests*  
+*Relationship: External research mentor (2025-Present); collaborative project on analog front-end design initiated through shared research interests*  
