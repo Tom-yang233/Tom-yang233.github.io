@@ -21,8 +21,8 @@ Personal Website: https://blog.barbarian.icu
 
 ---
 
-<details>
-  <summary><strong> Abstract </strong></summary>
+<details open>
+  <summary><strong><h1> Abstract </h1></strong></summary>
 
 ## Research Interests
 I am an undergraduate student with experience in FPGA-based data systems, analog electronics, and satellite payload development.  
