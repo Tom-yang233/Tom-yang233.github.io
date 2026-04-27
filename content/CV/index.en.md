@@ -107,6 +107,8 @@ Related links:
 **Team Captain, Robogame Competition, USTC** - *4th Place*  
 *2024*
 
+Collaborators: Jin Yibo, Jin Yurun, Wang Yirong & Yang Wenjie
+
 - Led a multidisciplinary robotics team integrating mechanical design, embedded systems, and computer vision  
 - Developed a robot platform based on RK3588 and STM32 for object detection, localization, grasping, and launching  
 - Implemented visual recognition using AprilTags and sensor fusion with laser ranging for navigation  
