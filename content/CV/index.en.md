@@ -30,10 +30,10 @@ I aim to pursue research as an instrumentation-oriented planetary scientist, foc
 My interests include the development of spaceborne instruments such as imaging systems, photometers, magnetometers, plasma probes, and particle detectors for in situ and remote sensing measurements.  
 
 ## Highlights
-- Rank 1/37 (GPA 3.95/4.30), Space Science and Technology, Class of 2023, USTC
 - Lead developer of CubeSat payload (61 MP imaging system)
 - Recipient of ~340K RMB in competitive funding from USTC programs for CubeSat payload development
 - Design of femtoampere-level analog front-end (TIA) for ion detection
+- Rank 1/37 (GPA 3.95/4.30), Space Science and Technology, Class of 2023, USTC
 
 </details>
 
