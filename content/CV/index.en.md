@@ -22,7 +22,7 @@ Personal Website: https://blog.barbarian.icu
 ---
 
 <details open>
-  <summary><strong><h1> Abstract </h1></strong></summary>
+  <summary><strong><h2> Abstract </h2></strong></summary>
 
 ## Research Interests
 I am an undergraduate student with experience in FPGA-based data systems, analog electronics, and satellite payload development.  
@@ -63,8 +63,6 @@ None to date :(
 **Solar-Terrestrial Exploration & Physics Group | USTC**  
 *2025 - Present*
 
-Mentors: Prof. Wang Yuming & Dr. Hao Xinjun  
-
 - Training in space instrumentation, including scientific objective definition and hands-on engineering practice  
 
 Related links: 
@@ -75,8 +73,6 @@ Related links:
 **Numerical Study of Lunar Mini-Magnetosphere Interactions**  
 *2026 - Present*
 
-Mentors: Prof. Dang Tong & Prof. Kang Jinting  
-Collaborators: Yang Yiran, Huang Chengyan, et al.  
 Tools: Python, Fortran, Linux (HPC), MHD simulation  
 
 - Simulate solar wind deflection by lunar crustal magnetic anomalies using the Kaiju MHD code  
@@ -85,8 +81,7 @@ Tools: Python, Fortran, Linux (HPC), MHD simulation
 
 **Femtoampere Transimpedance Amplifier**  
 *2026 - Present*
-
-Mentor: Dr. Wang Shaoyang (PolyU)  
+ 
 Tools: High-Impedance PCB Design, Analog Circuit Design  
 
 - Design a 10 TOhm transimpedance amplifier (ADA4530-1) for ion detector front-end applications  
@@ -107,8 +102,6 @@ Related links:
 **Team Captain, Robogame Competition, USTC** - *4th Place*  
 *2024*
 
-Collaborators: Jin Yibo, Jin Yurun, Wang Yirong & Yang Wenjie
-
 - Led a multidisciplinary robotics team integrating mechanical design, embedded systems, and computer vision  
 - Developed a robot platform based on RK3588 and STM32 for object detection, localization, grasping, and launching  
 - Implemented visual recognition using AprilTags and sensor fusion with laser ranging for navigation  
@@ -119,15 +112,11 @@ Related links:
 **DSP Developer, UHF/VHF Transceiver**  
 *2023 - 2024*
 
-Collaborators: Xin Jiafan, Tian Guo, et al.
-
 - Developed an STM32H7-based SDR transceiver prototype for MERLIS satellite TT&C  
 - Implemented RF signal processing algorithms and conducted system integration, debugging, and testing  
 
 **Wireless Optical Switch and Photodetector**  
 *2022*
-
-Mentor: Prof. Huang Yunfeng, Prof. Cui Jinming and Dr. Chen Yan
 
 - Designed an ESP32-based IoT system for optical platform control and photodetection  
 - Gained experience in analog front-end design, signal conditioning, EMC, and optomechanical integration  
@@ -189,43 +178,3 @@ Chinese (Native), English (Fluent; CET-4: 609, CET-6: 575)
 **Certificates**  
 Low-voltage Electrician Certificate (MEM, certified to work below 1kV)
 
----
-
-## References
-
-*All contact information available upon request*
-
-**Prof. Wang Yuming**  
-
-Professor, School of Earth and Space Sciences  
-Vice President, University of Science and Technology of China (USTC)  
-Deputy Director, National Key Laboratory of Deep Space Exploration  
- 
-*Relationship: Undergraduate research mentor / Academic advisor (2023-Present)*  
-
-**Prof. Guo Jingnan**  
-
-Professor, School of Earth and Space Sciences  
-
-*Relationship: Undergraduate academic advisor (2024-Present)*  
-
-**Dr. Hao Xinjun**  
-
-Senior Engineer, School of Earth and Space Sciences  
-University of Science and Technology of China (USTC)    
-
-*Relationship: Laboratory supervisor and engineering mentor (2025-Present)*  
-
-**Prof. Dang Tong**  
-
-Associate Professor, School of Earth and Space Sciences  
-University of Science and Technology of China (USTC)   
-
-*Relationship: Undergraduate research supervisor (2023-Present); mentored independent project on MHD simulation*    
-
-**Dr. Wang Shaoyang**  
-
-Postdoctoral Fellow, Department of Building Services Engineering  
-The Hong Kong Polytechnic University (PolyU)  
-
-*Relationship: External research mentor (2025-Present); collaborative project on analog front-end design initiated through shared research interests*  
