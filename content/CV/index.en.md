@@ -33,7 +33,7 @@ My interests include the development of spaceborne instruments such as imaging s
 - Lead developer of CubeSat payload (61 MP imaging system)
 - Recipient of ~340K RMB in competitive funding from USTC programs for CubeSat payload development
 - Design of femtoampere-level analog front-end (TIA) for ion detection
-- Rank 1/37 (GPA 3.95/4.30), Space Science and Technology, Class of 2023, USTC
+- Rank 1/37 (GPA 3.94/4.30), Space Science and Technology, Class of 2023, USTC
 
 </details>
 
@@ -46,7 +46,7 @@ My interests include the development of spaceborne instruments such as imaging s
 (Interdisciplinary Program in Planetary Science and Exploration, School of the Gifted Young)  
 *Sep 2023 - Expected Jun 2027*
 
-- **GPA**: 3.95/4.30 (Rank: 1/37, as of Mar 2026)
+- **GPA**: 3.94/4.30 (Rank: 1/37, as of Aug 2026)
 - **Selected Coursework**: Theoretical Mechanics, Electrodynamics, Plasma Physics, Signals and Systems, Optical Communications, Principles of Space Instruments, Orbital Dynamics
 
 ---
@@ -68,10 +68,15 @@ None to date :(
 Related links: 
 [STEP Group Website](https://step.ustc.edu.cn)
 
+**Institut für Experimentelle und Angewandte Physik | CAU Kiel**  
+*2026 Summer*
+
+- Designing high-energy particle detector for space mission
+
 ---
 
 **Numerical Study of Lunar Mini-Magnetosphere Interactions**  
-*2026 - Present*
+*2026*
 
 Tools: Python, Fortran, Linux (HPC), MHD simulation  
 
@@ -126,6 +131,7 @@ Related links:
 ## Activities & Services
 **Conferences**
 
+- **Poster**: *Design of a Multispectral Wide-Field Camera for Transient Luminous Event Observation on a Microsatellite Platform* | Hangzhou, CGU 2026
 - Students' Micro-satellite Forum | Hefei, China 2025 | **Chair**
 - **Oral Presentation**: *Design of a Wide-angle Optical Transient Detector for CubeSat Applications*
 - The 2nd International Conference of Deep Space Sciences | Hefei, China 2025 | **Student Attendee**
