@@ -5,18 +5,6 @@
   author: 苏轼
   origin: 江城子
 
-- content: 浮云一别后，流水十年间。
-  author: 韦应物
-  origin: 淮上喜会梁川故人
-
-- content: 此中有真意，欲辨已忘言。
-  author: 陶渊明
-  origin: 饮酒·其五
-
-- content: 众里寻他千百度，蓦然回首，那人却在灯火阑珊处。
-  author: 辛弃疾
-  origin: 青玉案·元夕
-
 - content: 采菊东篱下，悠然见南山。
   author: 陶渊明
   origin: 饮酒·其五
@@ -36,10 +24,6 @@
 - content: 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。
   author: 苏轼
   origin: 定风波
-
-- content: 人生自是有情痴，此恨不关风与月。
-  author: 欧阳修
-  origin: 玉楼春
 
 - content: 世事一场大梦，人生几度秋凉。
   author: 苏轼
@@ -77,14 +61,6 @@
   author: 晏几道
   origin: 临江仙
 
-- content: 人生南北多歧路
-  author: 吴敬梓
-  origin: 蝶恋花
-
-- content: 明明明月是前身。回头成一笑，清冷几千春。
-  author: 陈曾寿
-  origin: 临江仙
-
 - content: 自是人生常恨水常东。
   author: 李煜
   origin: 相见欢
@@ -100,3 +76,19 @@
 - content: 唯见月寒日暖，来煎人寿。
   author: 李煜
   origin: 苦昼短
+
+- content: 我有三次受难：流浪、爱情、生存。
+  author: 海子
+  origin: 夜色
+
+- content: 我又三种幸福：诗歌、王位、太阳。
+  author: 海子
+  origin: 夜色
+
+- content: 远方只有死亡中凝聚野花一片，明月如镜高悬在草原映照千年的岁月。
+  author: 海子
+  origin: 九月
+
+- content: 风后面是风/天空上面是天空/道路前面还是道路
+  author: 海子
+  origin: 四姐妹
